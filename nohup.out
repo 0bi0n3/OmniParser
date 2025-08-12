@@ -1,0 +1,84 @@
+/home/oberon/.local/lib/python3.12/site-packages/paddle/utils/cpp_extension/extension_utils.py:715: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+Setting up models...
+Models loaded successfully on 'cuda'.
+Starting batch processing...
+Processing Frames:   0%|          | 0/2850 [00:00<?, ?it/s]
+0: 736x1280 150 icons, 40.9ms
+Speed: 8.8ms preprocess, 40.9ms inference, 81.1ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 20/2850 [00:16<39:32,  1.19it/s]len(filtered_boxes): 160 49
+time to get parsed content: 0.4369509220123291
+
+0: 736x1280 113 icons, 13.7ms
+Speed: 3.3ms preprocess, 13.7ms inference, 0.9ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 21/2850 [00:21<53:01,  1.12s/it]len(filtered_boxes): 116 56
+time to get parsed content: 0.2301626205444336
+
+0: 736x1280 185 icons, 13.7ms
+Speed: 3.1ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 22/2850 [00:29<1:19:17,  1.68s/it]len(filtered_boxes): 201 131
+time to get parsed content: 0.22814178466796875
+
+0: 736x1280 168 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 23/2850 [00:43<2:22:11,  3.02s/it]len(filtered_boxes): 173 81
+time to get parsed content: 0.3031497001647949
+
+0: 736x1280 149 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 24/2850 [00:48<2:39:16,  3.38s/it]len(filtered_boxes): 153 74
+time to get parsed content: 0.21151351928710938
+
+0: 736x1280 226 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 25/2850 [00:56<3:08:10,  4.00s/it]len(filtered_boxes): 224 91
+time to get parsed content: 0.38301563262939453
+
+0: 736x1280 157 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 26/2850 [01:07<4:16:19,  5.45s/it]len(filtered_boxes): 165 51
+time to get parsed content: 0.32425951957702637
+
+0: 736x1280 172 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.9ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 27/2850 [01:14<4:28:28,  5.71s/it]len(filtered_boxes): 187 71
+time to get parsed content: 0.27332019805908203
+
+0: 736x1280 146 icons, 13.7ms
+Speed: 3.3ms preprocess, 13.7ms inference, 0.7ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 28/2850 [01:20<4:29:17,  5.73s/it]len(filtered_boxes): 156 78
+time to get parsed content: 0.1579442024230957
+
+0: 736x1280 46 icons, 13.7ms
+Speed: 3.1ms preprocess, 13.7ms inference, 0.7ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 29/2850 [01:22<3:44:47,  4.78s/it]len(filtered_boxes): 64 36
+time to get parsed content: 0.19951128959655762
+
+0: 736x1280 140 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 30/2850 [01:28<4:05:45,  5.23s/it]len(filtered_boxes): 145 74
+time to get parsed content: 0.27092576026916504
+
+0: 736x1280 126 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.7ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 31/2850 [01:36<4:44:46,  6.06s/it]len(filtered_boxes): 129 82
+time to get parsed content: 0.2031550407409668
+
+0: 736x1280 217 icons, 13.7ms
+Speed: 3.2ms preprocess, 13.7ms inference, 0.8ms postprocess per image at shape (1, 3, 736, 1280)
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Processing Frames:   1%|          | 32/2850 [01:48<5:59:13,  7.65s/it]
