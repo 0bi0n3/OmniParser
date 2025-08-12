@@ -12,3 +12,5 @@ wget-log
 weights/icon_caption_florence_v2/
 omnitool/gradio/uploads/
 weights/
+input_frames/
+outputs/
