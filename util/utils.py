@@ -25,10 +25,10 @@ paddle_ocr = PaddleOCR(
     use_angle_cls=False,
     use_gpu=False,  # using cuda will conflict with pytorch in the same process
     show_log=False,
-    max_batch_size=1024,
+    max_batch_size=64,  # was 1024: ~50GB RSS per process on CPU
     use_dilation=True,  # improves accuracy
     det_db_score_mode='slow',  # improves accuracy
-    rec_batch_num=1024)
+    rec_batch_num=64)  # was 1024
 import time
 import base64
 
@@ -305,7 +305,7 @@ def remove_overlap_new(boxes, iou_threshold, ocr_bbox=None):
                     else:
                         filtered_boxes.append({'type': 'icon', 'bbox': box1_elem['bbox'], 'interactivity': True, 'content': None, 'source':'box_yolo_content_yolo'})
             else:
-                filtered_boxes.append(box1)
+                filtered_boxes.append({'type': 'icon', 'bbox': box1, 'interactivity': True, 'content': None, 'source': 'box_yolo_content_yolo'})  # was raw list; broke text-free frames
     return filtered_boxes # torch.tensor(filtered_boxes)
 
 
@@ -429,7 +429,7 @@ def get_som_labeled_img(image_source: Union[str, Image.Image], model=None, BOX_T
         ocr_bbox=ocr_bbox.tolist()
     else:
         print('no ocr bbox!!!')
-        ocr_bbox = None
+        ocr_bbox = []  # was None; zip(None, ...) below crashes on text-free frames
 
     ocr_bbox_elem = [{'type': 'text', 'bbox':box, 'interactivity':False, 'content':txt, 'source': 'box_ocr_content_ocr'} for box, txt in zip(ocr_bbox, ocr_text) if int_box_area(box, w, h) > 0] 
     xyxy_elem = [{'type': 'icon', 'bbox':box, 'interactivity':True, 'content':None} for box in xyxy.tolist() if int_box_area(box, w, h) > 0]
@@ -514,7 +514,7 @@ def check_ocr_box(image_source: Union[str, Image.Image], display_img = True, out
             text_threshold = 0.5
         else:
             text_threshold = easyocr_args['text_threshold']
-        result = paddle_ocr.ocr(image_np, cls=False)[0]
+        result = paddle_ocr.ocr(image_np, cls=False)[0] or []  # paddle returns None when a frame has no text
         coord = [item[0] for item in result if item[1][1] > text_threshold]
         text = [item[1][0] for item in result if item[1][1] > text_threshold]
     else:  # EasyOCR
