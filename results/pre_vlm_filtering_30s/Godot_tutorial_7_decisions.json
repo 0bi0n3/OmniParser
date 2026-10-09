@@ -1,0 +1,376 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_7.mp4",
+ "params": {
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 7,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "neither": 28,
+  "count_only": 3
+ },
+ "runs": [
+  {
+   "label": "neither",
+   "start": 0.0,
+   "end": 27.0,
+   "n_frames": 28
+  },
+  {
+   "label": "count_only",
+   "start": 28.0,
+   "end": 30.0,
+   "n_frames": 3
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 2,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 3,
+   "n_elements": 3,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 2,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 2,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [],
+   "top_text": [
+    "05"
+   ],
+   "n_interactable": 5,
+   "n_elements": 6,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 4,
+   "n_elements": 4,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [],
+   "top_text": [
+    "05"
+   ],
+   "n_interactable": 4,
+   "n_elements": 5,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 3,
+   "n_elements": 8,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 4,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 5,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 7,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 3,
+   "n_elements": 7,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 5,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 5,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 2,
+   "n_elements": 3,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 3,
+   "n_elements": 5,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 3,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 1,
+   "n_elements": 1,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither"
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 158,
+   "n_elements": 159,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only"
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "RPG-Tut",
+    "2D43DScript AssetLib",
+    "O playgro"
+   ],
+   "n_interactable": 156,
+   "n_elements": 158,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only"
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [
+    "Debug",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Debug",
+    "2D3DScript",
+    " AssetLib"
+   ],
+   "n_interactable": 150,
+   "n_elements": 156,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_14.mp4",
+ "params": {
+  "mode": "borderline",
+  "borderline_max": 120,
+  "band_scale": 3,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "segments": [
+  {
+   "start": 29.0,
+   "end": 30.0
+  }
+ ]
+}

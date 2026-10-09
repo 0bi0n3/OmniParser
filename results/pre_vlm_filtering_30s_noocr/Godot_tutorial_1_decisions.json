@@ -1,0 +1,347 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_1.mp4",
+ "params": {
+  "no_ocr": true,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 7,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "valid": 31
+ },
+ "runs": [
+  {
+   "label": "valid",
+   "start": 0.0,
+   "end": 30.0,
+   "n_frames": 31
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 180,
+   "n_elements": 180,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 182,
+   "n_elements": 182,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 182,
+   "n_elements": 182,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 230,
+   "n_elements": 230,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 230,
+   "n_elements": 230,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 231,
+   "n_elements": 231,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 252,
+   "n_elements": 252,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 252,
+   "n_elements": 252,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 251,
+   "n_elements": 251,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 244,
+   "n_elements": 244,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 270,
+   "n_elements": 270,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 266,
+   "n_elements": 266,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 266,
+   "n_elements": 266,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 273,
+   "n_elements": 273,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 233,
+   "n_elements": 233,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 231,
+   "n_elements": 231,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 230,
+   "n_elements": 230,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 249,
+   "n_elements": 249,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 251,
+   "n_elements": 251,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 245,
+   "n_elements": 245,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 254,
+   "n_elements": 254,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 253,
+   "n_elements": 253,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 246,
+   "n_elements": 246,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 222,
+   "n_elements": 222,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 222,
+   "n_elements": 222,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 227,
+   "n_elements": 227,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 232,
+   "n_elements": 232,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 236,
+   "n_elements": 236,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 237,
+   "n_elements": 237,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 237,
+   "n_elements": 237,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid"
+  }
+ ]
+}

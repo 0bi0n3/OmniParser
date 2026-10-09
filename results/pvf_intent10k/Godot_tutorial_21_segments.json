@@ -1,0 +1,89 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_21.mp4",
+ "params": {
+  "mode": "borderline",
+  "borderline_min": 50,
+  "borderline_max": null,
+  "band_scale": 2,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "segments": [
+  {
+   "start": 23.0,
+   "end": 35.0
+  },
+  {
+   "start": 39.0,
+   "end": 55.0
+  },
+  {
+   "start": 67.0,
+   "end": 117.0
+  },
+  {
+   "start": 119.0,
+   "end": 122.0
+  },
+  {
+   "start": 124.0,
+   "end": 217.0
+  },
+  {
+   "start": 223.0,
+   "end": 254.0
+  },
+  {
+   "start": 258.0,
+   "end": 283.0
+  },
+  {
+   "start": 286.0,
+   "end": 325.0
+  },
+  {
+   "start": 340.0,
+   "end": 351.0
+  },
+  {
+   "start": 360.0,
+   "end": 385.0
+  },
+  {
+   "start": 393.0,
+   "end": 398.0
+  },
+  {
+   "start": 405.0,
+   "end": 478.0
+  },
+  {
+   "start": 483.0,
+   "end": 489.0
+  },
+  {
+   "start": 492.0,
+   "end": 503.0
+  },
+  {
+   "start": 517.0,
+   "end": 639.0
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_11.mp4",
+ "params": {
+  "mode": "borderline",
+  "borderline_max": 120,
+  "band_scale": 3,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "reject_count": 1,
+  "valid_count": 28,
+  "valid_ocr": 2
+ },
+ "runs": [
+  {
+   "label": "reject_count",
+   "start": 0.0,
+   "end": 0.0,
+   "n_frames": 1
+  },
+  {
+   "label": "valid_count",
+   "start": 1.0,
+   "end": 7.0,
+   "n_frames": 7
+  },
+  {
+   "label": "valid_ocr",
+   "start": 8.0,
+   "end": 9.0,
+   "n_frames": 2
+  },
+  {
+   "label": "valid_count",
+   "start": 10.0,
+   "end": 30.0,
+   "n_frames": 21
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "reject_count",
+   "valid": false
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 193,
+   "n_elements": 193,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 196,
+   "n_elements": 196,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 199,
+   "n_elements": 199,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 198,
+   "n_elements": 198,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 204,
+   "n_elements": 204,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 195,
+   "n_elements": 195,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 202,
+   "n_elements": 202,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Scene Project Debug Editor Help",
+    "F2D t3D SScript AssetLib",
+    "SceneImport",
+    "Olevel1 player basic_projectile Oworld invader +",
+    "Inspector",
+    "Node History",
+    "COnline Docs &Search Help<"
+   ],
+   "n_interactable": 103,
+   "n_elements": 103,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid_ocr",
+   "valid": true
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Scene Project Debug Editor Help",
+    "F2D t3D SScript AssetLib",
+    "SceneImport",
+    "Olevel1 player basic_projectile Oworld invader +",
+    "Inspector",
+    "Node History"
+   ],
+   "n_interactable": 104,
+   "n_elements": 104,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid_ocr",
+   "valid": true
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 168,
+   "n_elements": 168,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 194,
+   "n_elements": 194,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 196,
+   "n_elements": 196,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 194,
+   "n_elements": 194,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 192,
+   "n_elements": 192,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 188,
+   "n_elements": 188,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 193,
+   "n_elements": 193,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 195,
+   "n_elements": 195,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 222,
+   "n_elements": 222,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 222,
+   "n_elements": 222,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 220,
+   "n_elements": 220,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 244,
+   "n_elements": 244,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 244,
+   "n_elements": 244,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 241,
+   "n_elements": 241,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 236,
+   "n_elements": 236,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 235,
+   "n_elements": 235,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 237,
+   "n_elements": 237,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 236,
+   "n_elements": 236,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 239,
+   "n_elements": 239,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 240,
+   "n_elements": 240,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 240,
+   "n_elements": 240,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid_count",
+   "valid": true
+  }
+ ]
+}

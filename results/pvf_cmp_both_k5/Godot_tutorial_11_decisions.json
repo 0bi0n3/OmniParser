@@ -1,0 +1,856 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_11.mp4",
+ "params": {
+  "mode": "both",
+  "borderline_max": 120,
+  "band_scale": 3,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "neither": 2,
+  "count_only": 7,
+  "ocr_only": 1,
+  "valid": 21
+ },
+ "runs": [
+  {
+   "label": "neither",
+   "start": 0.0,
+   "end": 0.0,
+   "n_frames": 1
+  },
+  {
+   "label": "count_only",
+   "start": 1.0,
+   "end": 7.0,
+   "n_frames": 7
+  },
+  {
+   "label": "ocr_only",
+   "start": 8.0,
+   "end": 8.0,
+   "n_frames": 1
+  },
+  {
+   "label": "neither",
+   "start": 9.0,
+   "end": 9.0,
+   "n_frames": 1
+  },
+  {
+   "label": "valid",
+   "start": 10.0,
+   "end": 30.0,
+   "n_frames": 21
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [
+    "Help"
+   ],
+   "top_text": [
+    "File Edit Search Go To Debu",
+    "Online Docs &Search Help",
+    "cLass_name IsDead"
+   ],
+   "n_interactable": 178,
+   "n_elements": 190,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [
+    "Debug",
+    "Help"
+   ],
+   "top_text": [
+    "File Edit Search Go To Debug",
+    "Online Docs &Search Help",
+    "cLass_name IsDead"
+   ],
+   "n_interactable": 177,
+   "n_elements": 191,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [
+    "Debug",
+    "Editor",
+    "Help"
+   ],
+   "top_text": [
+    "roject Debug Editor",
+    "File Edit Search Go To Debug",
+    "Online Docs &Search Help",
+    "cLass_name IsDead"
+   ],
+   "n_interactable": 181,
+   "n_elements": 192,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [
+    "Debug",
+    "Help"
+   ],
+   "top_text": [
+    "File Edit Search Go To Debug",
+    "Online Docs &Search Help",
+    "cLass_name IsDead"
+   ],
+   "n_interactable": 180,
+   "n_elements": 191,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [
+    "Debug",
+    "Help"
+   ],
+   "top_text": [
+    "File Edit Search Go To Debug",
+    "Online Docs &Search Help",
+    "cLass_name IsDead"
+   ],
+   "n_interactable": 186,
+   "n_elements": 197,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "roject Debug Editor",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Filter Script",
+    "class_name IsDead"
+   ],
+   "n_interactable": 172,
+   "n_elements": 187,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [
+    "Debug",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Inspector",
+    "Edit Search Go To Debug",
+    "Online Docs Search Help",
+    "ilter Script",
+    "class_name IsDead"
+   ],
+   "n_interactable": 185,
+   "n_elements": 198,
+   "ocr_pass": false,
+   "count_pass": true,
+   "label": "count_only",
+   "valid": false
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "F*2D 43D 5Script AssetLib",
+    " Online Docs Search Help"
+   ],
+   "n_interactable": 96,
+   "n_elements": 102,
+   "ocr_pass": true,
+   "count_pass": false,
+   "label": "ocr_only",
+   "valid": false
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "F*2D 43D 5Script AssetLib",
+    "Online DocsSe"
+   ],
+   "n_interactable": 97,
+   "n_elements": 102,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "O world invader ",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs  Search Help",
+    "Local",
+    "class_name IsDead"
+   ],
+   "n_interactable": 142,
+   "n_elements": 158,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D S Script AssetLib",
+    "Scene Import",
+    "File Edit Search Go To Debug",
+    " Online Docs  Search Help",
+    "class_name IsDead"
+   ],
+   "n_interactable": 169,
+   "n_elements": 190,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "O world invader ",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 161,
+   "n_elements": 184,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "projectile",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 167,
+   "n_elements": 189,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "projectile",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 165,
+   "n_elements": 189,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "projectile",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 158,
+   "n_elements": 183,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 163,
+   "n_elements": 188,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "Inspector",
+    "File Edit Search Go To Debug",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 164,
+   "n_elements": 190,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "Scene  Import",
+    "Inspector",
+    "Online DocsSearch Help",
+    "Local",
+    "Filter Scripts",
+    " class_name IsDead",
+    "te Node: 48469378919"
+   ],
+   "n_interactable": 202,
+   "n_elements": 230,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 206,
+   "n_elements": 226,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D S Script AssetLib",
+    "Scene Import",
+    "Inspector",
+    " Online Docs Search Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    "class_name IsDead"
+   ],
+   "n_interactable": 200,
+   "n_elements": 226,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D S Script AssetLib",
+    "Scene Import",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "1ote Node: 48469378919"
+   ],
+   "n_interactable": 217,
+   "n_elements": 247,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D S Script AssetLib",
+    "Scene Import",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "1ote Node: 48469378919"
+   ],
+   "n_interactable": 217,
+   "n_elements": 245,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D S Script AssetLib",
+    "Scene Import",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "1ote Node: 48469378919"
+   ],
+   "n_interactable": 214,
+   "n_elements": 244,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "Scene  Import",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    " class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 206,
+   "n_elements": 240,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "Scene Import",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    " class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 207,
+   "n_elements": 243,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "SceneImport",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 209,
+   "n_elements": 236,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "Scene  Import",
+    "Inspector",
+    " Online Docs Search Help",
+    "Local",
+    "Filter Scripts",
+    " class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 206,
+   "n_elements": 240,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 219,
+   "n_elements": 243,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "Script"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "SceneImport",
+    "Inspector",
+    " Online Docs Search Help",
+    "Filter Scripts",
+    "class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 222,
+   "n_elements": 246,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "Project Debug Editor",
+    "F2D 43D SScript AssetLib",
+    "SceneImport",
+    "File Edit Search GoTo Debug",
+    "Online DocsSearch Help",
+    "Remote",
+    "Local",
+    "Filter Scripts",
+    " class_name IsDead",
+    "m Remote Node: 48469378919"
+   ],
+   "n_interactable": 215,
+   "n_elements": 247,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  }
+ ]
+}

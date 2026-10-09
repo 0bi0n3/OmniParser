@@ -1,0 +1,1030 @@
+[
+  {
+    "tutorial": 1,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_1.mp4",
+    "youtube_id": "fZdU0W96Cqs",
+    "url": "https://www.youtube.com/watch?v=fZdU0W96Cqs",
+    "title": "4 Directional Player Animations & Sprite Sorting in 2D Animations ~ Godot 4 Tutorial",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Adding 4 directional animations for idle, walk, and swing for a player character. Learn how to sort a secondary sprite for items equipped to the hand slot. \n\nFollow along the full series on making a Resource Gathering RPG in Godot 4\nSeries Playlist ➣ https://www.youtube.com/playlist?list=PLyH-qXFkNSxlANk9EwZmbtECBfbHeW68-\nFull Project with Art Pack ➣ https://ko-fi.com/s/e848d87222\nArt Pack ➣ https://chris-tutorials.itch.io/gatherers-exterior-pack\nTutorial Gdscript Download ➣ https://ko-fi.com/s/c02da64555\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n00:00 - Idle Up, Left, Right and Sorting Tool Behind Player\n04:59 - Walk Up, Left, Right",
+    "topic": "Resource RPG: 4-direction animations, y-sorting",
+    "godot_version": "4 (≈4.0 by date)",
+    "upload_date": "2023-05-17",
+    "duration_min": 14.4,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 862.0
+      }
+    ],
+    "kept_seconds": 862.0
+  },
+  {
+    "tutorial": 2,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_2.mp4",
+    "youtube_id": "P8v-MV9shS8",
+    "url": "https://www.youtube.com/watch?v=P8v-MV9shS8",
+    "title": "Addressing Issues // E07 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this video we will fix up some little issues and address some comments about the project.\n\nTopics Covered: Directions, Unique Names\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:30 Hurt Box and Animations\n10:00 Update Plant Scene (HitBox Size)\n11:20 Moonwalk Bug (Direction issue)\n19:08 Polish on direction code\n\n--------------------\n\nPrevious Video - Hit & Hurt Boxes: https://youtu.be/K6o8vEuqI6Q\nNext Video - Auto Camera Limits: https://youtu.be/KQ9XreEyn6U\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: fixing issues",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-03-08",
+    "duration_min": 21.8,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 11.0
+      },
+      {
+        "start": 33.0,
+        "end": 597.0
+      },
+      {
+        "start": 599.0,
+        "end": 600.0
+      },
+      {
+        "start": 602.0,
+        "end": 1304.0
+      }
+    ],
+    "kept_seconds": 1278.0
+  },
+  {
+    "tutorial": 3,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_3.mp4",
+    "youtube_id": "0SGQ_XGOLNU",
+    "url": "https://www.youtube.com/watch?v=0SGQ_XGOLNU",
+    "title": "Air Attack Chain & Move While Attacking ~ Godot 4.4 Tutorial [P5]",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Adding in a chainable air attack and moving while attacking for ground and air in this LimboAI hierarchical state machine tutorial. Coming soon is Behavior Trees in part 6 or 7.\n\nSeries Project Files\nKo-fi ➣ https://ko-fi.com/post/Project-Files-Control-Character-States-with-Limb-P5P118FNW8\nPatreon ➣ https://www.patreon.com/posts/119247384\n\nPlaylist \nhttps://www.youtube.com/watch?v=6HzETy7izig&list=PLyH-qXFkNSxkviZMlWoVilQN40Oqh7m6Y&pp=gAQB\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\nArt Assets\nTreasure Hunters by Pixel Frog\nhttps://pixelfrog-assets.itch.io/treasure-hunters",
+    "topic": "LimboAI platformer: air attack chain",
+    "godot_version": "4.4",
+    "upload_date": "2025-01-11",
+    "duration_min": 27.5,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 156.0
+      },
+      {
+        "start": 159.0,
+        "end": 203.0
+      },
+      {
+        "start": 205.0,
+        "end": 365.0
+      },
+      {
+        "start": 367.0,
+        "end": 384.0
+      },
+      {
+        "start": 387.0,
+        "end": 466.0
+      },
+      {
+        "start": 471.0,
+        "end": 471.0
+      },
+      {
+        "start": 474.0,
+        "end": 534.0
+      },
+      {
+        "start": 536.0,
+        "end": 536.0
+      },
+      {
+        "start": 538.0,
+        "end": 564.0
+      },
+      {
+        "start": 569.0,
+        "end": 587.0
+      },
+      {
+        "start": 589.0,
+        "end": 593.0
+      },
+      {
+        "start": 596.0,
+        "end": 630.0
+      },
+      {
+        "start": 632.0,
+        "end": 632.0
+      },
+      {
+        "start": 634.0,
+        "end": 647.0
+      },
+      {
+        "start": 649.0,
+        "end": 678.0
+      },
+      {
+        "start": 680.0,
+        "end": 713.0
+      },
+      {
+        "start": 716.0,
+        "end": 732.0
+      },
+      {
+        "start": 734.0,
+        "end": 783.0
+      },
+      {
+        "start": 785.0,
+        "end": 820.0
+      },
+      {
+        "start": 822.0,
+        "end": 830.0
+      },
+      {
+        "start": 834.0,
+        "end": 939.0
+      },
+      {
+        "start": 941.0,
+        "end": 984.0
+      },
+      {
+        "start": 986.0,
+        "end": 986.0
+      },
+      {
+        "start": 988.0,
+        "end": 1027.0
+      },
+      {
+        "start": 1029.0,
+        "end": 1032.0
+      },
+      {
+        "start": 1034.0,
+        "end": 1043.0
+      },
+      {
+        "start": 1046.0,
+        "end": 1116.0
+      },
+      {
+        "start": 1121.0,
+        "end": 1122.0
+      },
+      {
+        "start": 1124.0,
+        "end": 1260.0
+      },
+      {
+        "start": 1262.0,
+        "end": 1283.0
+      },
+      {
+        "start": 1285.0,
+        "end": 1285.0
+      },
+      {
+        "start": 1287.0,
+        "end": 1290.0
+      },
+      {
+        "start": 1292.0,
+        "end": 1325.0
+      },
+      {
+        "start": 1327.0,
+        "end": 1648.0
+      }
+    ],
+    "kept_seconds": 1565.0
+  },
+  {
+    "tutorial": 4,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_4.mp4",
+    "youtube_id": "I1HPlnY3nuo",
+    "url": "https://www.youtube.com/watch?v=I1HPlnY3nuo",
+    "title": "Animated Tiles Setup ~ Floating Raft - Godot 4 Resource Gathering Tutorial",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "How to setup an animated tile for tilemaps & tilesets in the Godot 4 engine.\n\nSeries Playlist ➣ https://www.youtube.com/playlist?list=PLyH-qXFkNSxlANk9EwZmbtECBfbHeW68-\nFull Project with Scripts, Assets, and Art Pack ➣ https://ko-fi.com/s/e848d87222\nArt Pack ➣ https://chris-tutorials.itch.io/gatherers-exterior-pack\nTutorial Gdscript Download ➣ https://ko-fi.com/s/c02da64555\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n00:00 - Summary So Far\n00:37 - Animated Tiles",
+    "topic": "Resource RPG: animated tiles",
+    "godot_version": "4 (≈4.0 by date)",
+    "upload_date": "2023-05-23",
+    "duration_min": 4.7,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 281.0
+      }
+    ],
+    "kept_seconds": 281.0
+  },
+  {
+    "tutorial": 5,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_5.mp4",
+    "youtube_id": "WrMORzl3g1U",
+    "url": "https://www.youtube.com/watch?v=WrMORzl3g1U",
+    "title": "Animation Tree State Machine Setup w/ Conditions & BlendSpace2D - Godot 4 Resource Gatherer Tutorial",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Work with Godot 4 animations using the AnimationPlayer, AnimationTree, and state machine transitions.\n\n━━━ ChrisTutorials Links ━━━\n🌐 ChrisTutorials — Docs, Plugins, Courses & Assets: https://christutorials.com\n💛 Support on Patreon: https://www.patreon.com/ChrisTutorials\n☕ Ko-fi: https://ko-fi.com/chrisTutorials\n🎮 YouTube Memberships include plugins, assets & courses\n\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://chris-tutorials.itch.io/",
+    "topic": "Resource RPG: AnimationTree state machine, BlendSpace2D",
+    "godot_version": "4 (≈4.0 by date)",
+    "upload_date": "2023-05-18",
+    "duration_min": 16.2,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 974.0
+      }
+    ],
+    "kept_seconds": 974.0
+  },
+  {
+    "tutorial": 6,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_6.mp4",
+    "youtube_id": "Ec2LlgG7WCs",
+    "url": "https://www.youtube.com/watch?v=Ec2LlgG7WCs",
+    "title": "Attack Player Behavior Tree AI ~ Godot 4 Tutorial LimboAI P7",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Setting up attack decision making and targeting sensor for a behavior tree using LimboAI\n\nSeries Project Files\nKo-fi ➣ https://ko-fi.com/post/Project-Files-Control-Character-States-with-Limb-P5P118FNW8\nPatreon ➣ https://www.patreon.com/posts/119247384\n\nPlaylist \nhttps://www.youtube.com/watch?v=6HzETy7izig&list=PLyH-qXFkNSxkviZMlWoVilQN40Oqh7m6Y&pp=gAQB\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\n\n━━━ ChrisTutorials Links ━━━\n🌐 ChrisTutorials — Docs, Plugins, Courses & Assets: https://christutorials.com\n💛 Support on Patreon: https://www.patreon.com/ChrisTutorials\n☕ Ko-fi: https://ko-fi.com/chrisTutorials\n🎮 YouTube Memberships include plugins, assets & courses",
+    "topic": "LimboAI platformer: enemy attack behaviour tree",
+    "godot_version": "4.4 (in tags)",
+    "upload_date": "2025-01-13",
+    "duration_min": 18.0,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 3.0,
+        "end": 438.0
+      },
+      {
+        "start": 440.0,
+        "end": 798.0
+      },
+      {
+        "start": 806.0,
+        "end": 808.0
+      },
+      {
+        "start": 810.0,
+        "end": 1077.0
+      }
+    ],
+    "kept_seconds": 1062.0
+  },
+  {
+    "tutorial": 7,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_7.mp4",
+    "youtube_id": "KQ9XreEyn6U",
+    "url": "https://www.youtube.com/watch?v=KQ9XreEyn6U",
+    "title": "Auto Camera Limits // E08 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this video I’m going to show you how we can set up a simple autoload script, and use it to set our camera limits based on the level’s tilemap.\n\nTopics Covered: TileMap, Autoload Script, Singleton, Camera2D, Camera Limits, Global Class\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:27 Problem Overview\n0:50 Camera2D Limit Settings Overview\n2:44 Player Camera Script\n6:44 Autoload Script Overview\n7:00 Create LevelManager Autoload Script\n10:20 Setup Autoload Script in Project Settings\n11:10 TileMap Script\n15:40 Set Rendering Quadrant Size\n18:07 Finish Player Camera Script\n19:58 BUUUGGG!\n21:30 Bug Fix\n21:43 Wrap Up\n22:00 Tilemap Bound issue and Fix\n\n--------------------\n\nPrevious Video - Addressing Issues // E07: https://youtu.be/P8v-MV9shS8\nNext Video - Make a Slime Enemy (part I) // E09: https://youtu.be/fLzmZPNJNDk\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: auto camera limits",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-03-08",
+    "duration_min": 23.1,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 29.0,
+        "end": 1372.0
+      }
+    ],
+    "kept_seconds": 1343.0
+  },
+  {
+    "tutorial": 8,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_8.mp4",
+    "youtube_id": "ExJk-ov4aqU",
+    "url": "https://www.youtube.com/watch?v=ExJk-ov4aqU",
+    "title": "Basic Character Movement & TileMapLayers Setup ~ 1 Bit Projectile Platformer in Godot [Part 1]",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "First video in series for creating a projectile shooting based platformer in Godot 4.3. This tutorial covers basic left, right character movement, flipping sprites based on move direction, and simple tile map setup using the new TileMapLayers nodes.\n\nProject Downloads ~ Snapshot at Each Videos End\nKo-fi ➣ https://ko-fi.com/post/Project-1-Bit-Projectile-Platformer-Tutorial-Ser-U7U510EBNX\nPatreon ➣ https://www.patreon.com/posts/107952055\nItch.io ➣ https://chris-tutorials.itch.io/1-bit-platformer-tutorial-project\n\nArt Assets Used\nhttps://kenney-assets.itch.io/1-bit-platformer-pack\n\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Support Channel with Crypto Donations\nhttps://pastebin.com/WAnBPcXs\n\n00:00 - What to Expect\n00:10 - Installing 1 Bit Platformer Art Pack\n02:14 - TileMapLayers\n11:14 - Creating Player Character\n16:40 - Player Move Script\n24:59 - Follow Camera\n26:09 - Facing Flip Direction Component\n35:22 - Wrapup",
+    "topic": "1-bit platformer: movement, TileMapLayers",
+    "godot_version": "4.3 (in description)",
+    "upload_date": "2024-07-11",
+    "duration_min": 37.5,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 54.0,
+        "end": 75.0
+      },
+      {
+        "start": 134.0,
+        "end": 2248.0
+      }
+    ],
+    "kept_seconds": 2135.0
+  },
+  {
+    "tutorial": 9,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_9.mp4",
+    "youtube_id": "D57Q-8W9qNE",
+    "url": "https://www.youtube.com/watch?v=D57Q-8W9qNE",
+    "title": "Basic Save & Load // E15 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this video we’re going to build a Save Manager, create a basic pause screen, and implement save and load features.\n\nTopics Covered: Save Manager, Save Game, Load Game, Write to JSON, Pause Menu, Pause Game, Autoload Script/Scene, Dictionary\n\nNew Assets Needed:\n- None\n\nGitHub Repo: https://github.com/michaelmalaska/aarpg-tutorial\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:28 Overview\n1:43 Build Pause Menu\n5:25 Pause Menu GD Script\n7:28 Input Map Settings\n13:14 Test Pause Menu\n14:47 Create SaveManager Script\n16:49 current_save Dictionary\n21:34 Connect Pause Menu Buttons to SaveManager\n24:06 save_game Function\n27:35 update_player_data Function\n30:10 update_scene_path Function\n34:50 load_game Function\n42:10 GlobalPlayer set_health Function\n44:00 Wrap Up load_game Function\n45:12 Total Wimps\n45:23 Minor Polish to Load Transition\n46:10 Address Mouse Issues\n47:07 Outro\n--------------------\n\nPrevious Video - Scene Manager // E14: https://youtu.be/rA-pI06mpw4\nNext Video - Resource Based Inventory System // E16: https://youtu.be/QqS1kSpu8Pg\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: save and load",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-04-18",
+    "duration_min": 47.8,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 29.0,
+        "end": 2834.0
+      }
+    ],
+    "kept_seconds": 2805.0
+  },
+  {
+    "tutorial": 10,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_10.mp4",
+    "youtube_id": "NAN4BbxaapI",
+    "url": "https://www.youtube.com/watch?v=NAN4BbxaapI",
+    "title": "Behavior AI Trees Setup & Character Health - 1 Bit Platformer [Part 7] ~ Godot 4.3",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Initial setup for Beehave Behaviour Tree to start building enemy AI for the Invader enemy. We move current health into a Health component as well.\n\nProject Downloads ~ Snapshot at Each Videos End\nKo-fi ➣ https://ko-fi.com/post/Project-1-Bit-Projectile-Platformer-Tutorial-Ser-U7U510EBNX\nPatreon ➣ https://www.patreon.com/posts/107952055\nItch.io ➣ https://chris-tutorials.itch.io/1-bit-platformer-tutorial-project\n\nAssets & Credits ➣ https://pastebin.com/qa4NiTyu\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Support Channel with Crypto Donations\nhttps://pastebin.com/WAnBPcXs\n\n00:00 - What to Expect\n00:21 - Make Gravity and Move and Slide Universals\n02:41 - Beehave Plugin\n05:24 - BeehaveTree Setup\n08:41 - IsDead Conditional Leaf\n10:10 - BlackboardKeys Resource\n13:44 - Health Component\n18:20 - Object Blackboard Setter\n21:45 - Blackboard get_value defaults\n25:08 - Behaviour Tree Debugger ~ Character Alive\n25:36 - Use Health Component in Hitbox Hurtbox\n28:42 - Wrapup",
+    "topic": "1-bit platformer: behaviour trees, health",
+    "godot_version": "4.3 beta (seen in frames)",
+    "upload_date": "2024-07-18",
+    "duration_min": 29.7,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 22.0,
+        "end": 306.0
+      },
+      {
+        "start": 322.0,
+        "end": 1784.0
+      }
+    ],
+    "kept_seconds": 1746.0
+  },
+  {
+    "tutorial": 11,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_11.mp4",
+    "youtube_id": "oNmgRR5UKI8",
+    "url": "https://www.youtube.com/watch?v=oNmgRR5UKI8",
+    "title": "Behavior Tree Death & Remove ~ 1 Bit Platformer [Part 8] - Godot 4.3 Series",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Setting up a BehaviourTree Action to play a death animation and remove character from the scene at the end of the animation as a signal callback. This setup is done using the Godot plugin Beehave.\n\nProject Downloads ~ Snapshot at Each Videos End\nKo-fi ➣ https://ko-fi.com/post/Project-1-Bit-Projectile-Platformer-Tutorial-Ser-U7U510EBNX\nPatreon ➣ https://www.patreon.com/posts/107952055\nItch.io ➣ https://chris-tutorials.itch.io/1-bit-platformer-tutorial-project\n\nAssets & Credits ➣ https://pastebin.com/qa4NiTyu\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Support Channel with Crypto Donations\nhttps://pastebin.com/WAnBPcXs\n\n00:00 - What to Expect\n01:06 - Play Death Action\n05:05 - Success on Finished\n08:21 - RUNNING Only Tick\n09:13 - Remove Object after Animation Plays",
+    "topic": "1-bit platformer: death and removal",
+    "godot_version": "4.3",
+    "upload_date": "2024-07-21",
+    "duration_min": 11.0,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 1.0,
+        "end": 39.0
+      },
+      {
+        "start": 46.0,
+        "end": 659.0
+      }
+    ],
+    "kept_seconds": 651.0
+  },
+  {
+    "tutorial": 12,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_12.mp4",
+    "youtube_id": "EeGe0Ti1X3Y",
+    "url": "https://www.youtube.com/watch?v=EeGe0Ti1X3Y",
+    "title": "Behavior Tree Navigation Setup with Limbo AI ~ Godot Tutorial P6",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Using a Behavior Tree system to setup enemy logic using LimboAI for Godot. This video shows setting up the first major behavior tree action of navigation to a point set onto the NavigationAgent2D. Part of the tutorial is setting up the Navigation Agent and the Navigation Map to work with the Navigation task itself. Recorded in Godot 4.4 dev 7.\n\nSeries Project Files\nKo-fi ➣ https://ko-fi.com/post/Project-Files-Control-Character-States-with-Limb-P5P118FNW8\nPatreon ➣ https://www.patreon.com/posts/119247384\n\nPlaylist \nhttps://www.youtube.com/watch?v=6HzETy7izig&list=PLyH-qXFkNSxkviZMlWoVilQN40Oqh7m6Y&pp=gAQB\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\nArt Assets\nTreasure Hunters by Pixel Frog\nhttps://pixelfrog-assets.itch.io/treasure-hunters\n\nTimestamps\n0:00 What to Expect\n0:18 Ground Attack Move Speed Fix\n1:02 Behavior Tree Setup\n7:40 NavigationAgent2D Setup\n9:52 NPC Script\n11:07 Navigation to Point Task\n23:05 Navigation Map Setup\n27:00 Jumping Over Walls During Navigation Task\n33:07 Adding Gravity to NPC\n34:44 Jumping Condition\n36:30 Point Reached Horizontally Exit Condition\n39:22 NPC Move & Idle Animations\n41:14 Direction Facing for Behavior Tree NPC\n46:13 New Node Path Warnings for Animation Player (Reopen Project)\n46:49 Wrapup",
+    "topic": "LimboAI platformer: navigation behaviour tree",
+    "godot_version": "4.4 (in description)",
+    "upload_date": "2025-01-13",
+    "duration_min": 47.6,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 19.0,
+        "end": 1253.0
+      },
+      {
+        "start": 1255.0,
+        "end": 2855.0
+      }
+    ],
+    "kept_seconds": 2834.0
+  },
+  {
+    "tutorial": 13,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_13.mp4",
+    "youtube_id": "JwxBs8OnWrI",
+    "url": "https://www.youtube.com/watch?v=JwxBs8OnWrI",
+    "title": "Boomerang! // E25 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this tutorial we will build a new boomerang feature that will allow the player to throw a boomerang that will track the player and return, as well as be able to damage enemies.\n\nTopics Covered: boomerang, player abilities, hurtbox, return to player\n\nNew Assets Needed:\n- boomerang.png\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\nGitHub Repo: https://github.com/michaelmalaska/aarpg-tutorial\nDiscord: https://discord.gg/rkzBfHaudc\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:32 Fix Enemy Death/Chase Bug\n2:35 Boomerang Scene & SCript Setup\n15:00 Player Boomerang Ability\n24:24 Limit to One Boomerang\n25:16 Finish Boomerang Script/Return State\n29:30 Add HurtBox to Boomerang\n31:36 Wrap Up\n32:25 Outro\n--------------------\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: boomerang weapon",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-06-25",
+    "duration_min": 33.1,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 33.0,
+        "end": 1880.0
+      }
+    ],
+    "kept_seconds": 1847.0
+  },
+  {
+    "tutorial": 14,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_14.mp4",
+    "youtube_id": "8aYUcRLVyNU",
+    "url": "https://www.youtube.com/watch?v=8aYUcRLVyNU",
+    "title": "Boomerang++ // E26 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this tutorial we’re going to polish our boomerang with some audio and dynamic animation effects\n\nTopics Covered: boomerang, player abilities, Audio pitch_scale, Animation Player Playback speed_scale\n\nNew Assets Needed:\n- boomerang.wav\n- catch.wav\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\nGitHub Repo: https://github.com/michaelmalaska/aarpg-tutorial\nDiscord: https://discord.gg/rkzBfHaudc\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:28 Setup\n1:27 Add Sound Effect to Boomerang Scene\n1:56 Add Pitch Scale to Boomerang Audio\n4:39 Dynamic Animation Playback Speed\n6:31 Add Cath Audio & Audio Playback from PlayerManager\n10:55 Outro\n--------------------\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: boomerang upgrades",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-06-29",
+    "duration_min": 11.7,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 29.0,
+        "end": 700.0
+      }
+    ],
+    "kept_seconds": 671.0
+  },
+  {
+    "tutorial": 15,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_15.mp4",
+    "youtube_id": "uOXIZf7QFHg",
+    "url": "https://www.youtube.com/watch?v=uOXIZf7QFHg",
+    "title": "C# Godot 4.2 Beginner's Crash Course - Projectiles & Scoring GameDev Prototype",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Complete guide showing start to finish how to code in C# a simple projectile scoring game prototype in Godot 4.2.\n\n➣ Finished Project Download (Free) ➣\nKo-Fi ➣ https://ko-fi.com/post/Project-DL-C-Godot-Crash-Course--Projectile-Ga-Y8Y3RCK0I\nPatreon ➣ https://www.patreon.com/posts/93203699\nGithub ➣ https://github.com/ChrisTutorials/projectile_prototype_godot_4_cs\n\n➣ Video Links ➣\nVSC debug settings launcher.json & tasks.json ➣ https://github.com/godotengine/godot-csharp-vscode/issues/59#issuecomment-1790064015\n.NET Download ➣ https://dotnet.microsoft.com/en-us/download/dotnet/7.0\nGodot (Get Mono) ➣ https://godotengine.org/article/release-candidate-godot-4-2-rc-1/\nBackground Generator by Deep Fold ➣ https://deep-fold.itch.io/space-background-generator\nVisual Studio Code ➣ https://code.visualstudio.com/\n\n➣ My Gdscript Plugins for Godot 4 ➣\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Art Used in Demos and Devlogs\nhttps://chris-tutorials.itch.io/gatherers-exterior-pack\nhttps://butterymilk.itch.io/tiny-wonder-forest\nhttps://crusenho.itch.io/complete-gui-essential-pack\n\n0:00 What to Expect\n0:34 Project Setup\n3:36 Visual Studio Code Project Settings\n6:06 Launch.json and Tasks.json setttings\n8:07 .NET SDK 7.0 Download\n8:44 Testing Debug Breakpoint\n9:38 Set Project Main Scene\n10:58 Add Script & Hit Debug Breakpoint\n12:06 Tilemap with Collision\n15:01 Resize Game Window\n15:44 Projectile Launcher: Aim at Mouse\n16:56 Export Aiming Node Property\n2!:01 Rotate Launcher to Mouse Pointer Position\n23:39 Create Projectile Scene & Script\n26:53 Instancing Projectile\n28:12 Shoot Projectile Action\n34:56 Grouping Projectiles to a Parent Node\n41:29 Add Force to Projectiles\n45:10 Deep-Fold Space Background\n48:50 Charging Projectile Launch Power\n52:58 IsCharging Property with Custom Ssetter\n58:44 Charging Up Color for Launcher\n1:02:21 Show Launch Power with Signals & Labels\n1:07:49 Refractoring _chargeTime to ChargeTime property\n1:11:43 Score Box Moving Target\n1:17:04 Movement with AnimationPlayer for ScoreBox\n1:23:09 Score Point on Projectile Entered\n1:24:31 Score Resource and Communicating Data between Objects\n1:39:54 Projectiles Time to Live Duration\n1:44:08 Remove Projectile After Scoring\n1:45:20 Increasing Charge Power Speed\n1:45:53 Wrapup",
+    "topic": "C# crash course: projectiles and scoring",
+    "godot_version": "4.2 rc1 (C#/mono) (seen in frames)",
+    "upload_date": "2023-11-20",
+    "duration_min": 106.3,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 34.0,
+        "end": 50.0
+      },
+      {
+        "start": 79.0,
+        "end": 308.0
+      },
+      {
+        "start": 588.0,
+        "end": 657.0
+      },
+      {
+        "start": 672.0,
+        "end": 684.0
+      },
+      {
+        "start": 731.0,
+        "end": 938.0
+      },
+      {
+        "start": 945.0,
+        "end": 1014.0
+      },
+      {
+        "start": 1023.0,
+        "end": 1048.0
+      },
+      {
+        "start": 1272.0,
+        "end": 1286.0
+      },
+      {
+        "start": 1291.0,
+        "end": 1291.0
+      },
+      {
+        "start": 1295.0,
+        "end": 1301.0
+      },
+      {
+        "start": 1398.0,
+        "end": 1409.0
+      },
+      {
+        "start": 1420.0,
+        "end": 1592.0
+      },
+      {
+        "start": 1612.0,
+        "end": 1615.0
+      },
+      {
+        "start": 1674.0,
+        "end": 1695.0
+      },
+      {
+        "start": 1972.0,
+        "end": 2037.0
+      },
+      {
+        "start": 2096.0,
+        "end": 2190.0
+      },
+      {
+        "start": 2374.0,
+        "end": 2383.0
+      },
+      {
+        "start": 2385.0,
+        "end": 2404.0
+      },
+      {
+        "start": 2407.0,
+        "end": 2425.0
+      },
+      {
+        "start": 2473.0,
+        "end": 2475.0
+      },
+      {
+        "start": 2490.0,
+        "end": 2492.0
+      },
+      {
+        "start": 2637.0,
+        "end": 2640.0
+      },
+      {
+        "start": 2657.0,
+        "end": 2659.0
+      },
+      {
+        "start": 2665.0,
+        "end": 2704.0
+      },
+      {
+        "start": 2711.0,
+        "end": 2725.0
+      },
+      {
+        "start": 2768.0,
+        "end": 2776.0
+      },
+      {
+        "start": 2781.0,
+        "end": 2901.0
+      },
+      {
+        "start": 2907.0,
+        "end": 2926.0
+      },
+      {
+        "start": 2957.0,
+        "end": 2959.0
+      },
+      {
+        "start": 3500.0,
+        "end": 3502.0
+      },
+      {
+        "start": 3525.0,
+        "end": 3543.0
+      },
+      {
+        "start": 3706.0,
+        "end": 3715.0
+      },
+      {
+        "start": 3740.0,
+        "end": 3786.0
+      },
+      {
+        "start": 3800.0,
+        "end": 3805.0
+      },
+      {
+        "start": 4180.0,
+        "end": 4184.0
+      },
+      {
+        "start": 4285.0,
+        "end": 4287.0
+      },
+      {
+        "start": 4304.0,
+        "end": 4861.0
+      },
+      {
+        "start": 4867.0,
+        "end": 4968.0
+      },
+      {
+        "start": 4990.0,
+        "end": 5019.0
+      },
+      {
+        "start": 5085.0,
+        "end": 5230.0
+      },
+      {
+        "start": 5264.0,
+        "end": 5370.0
+      },
+      {
+        "start": 5604.0,
+        "end": 5666.0
+      },
+      {
+        "start": 5787.0,
+        "end": 5957.0
+      },
+      {
+        "start": 6006.0,
+        "end": 6020.0
+      },
+      {
+        "start": 6176.0,
+        "end": 6178.0
+      },
+      {
+        "start": 6186.0,
+        "end": 6192.0
+      },
+      {
+        "start": 6285.0,
+        "end": 6287.0
+      },
+      {
+        "start": 6300.0,
+        "end": 6309.0
+      },
+      {
+        "start": 6324.0,
+        "end": 6330.0
+      },
+      {
+        "start": 6340.0,
+        "end": 6340.0
+      }
+    ],
+    "kept_seconds": 2565.0
+  },
+  {
+    "tutorial": 16,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_16.mp4",
+    "youtube_id": "6bbPHsB9TtI",
+    "url": "https://www.youtube.com/watch?v=6bbPHsB9TtI",
+    "title": "Complete 3D Shooting Mechanics - Godot 4 FPS Tutorial",
+    "creator": "LegionGames",
+    "creator_id": "UCK2Z1ksHQUKFQXMBrmBmuVA",
+    "tutorial_description": "In this Godot 4 tutorial we create implement complete shooting mechanics for a first person shooter game including how to make a weapon. The covered topics include gun animations, projectile bullets, complex bullet collisions with body parts and weakpoints, dying animations, and enemy despawning. These mechanics can be used for many types of games, including FPS, horror, survival, RPG, etc. All of this code works with Godot 4.1.\n\nSupport the channel: https://www.patreon.com/LegionGames\nThe project files had to be taken down because Mixamo doesn't allow for redistribution of model and animation files.\n\nAssets:\nZombie model: https://www.mixamo.com/\nGround texture by 0melapics: https://www.freepik.com/free-vector/earth-texture_997013.htm\nKenney Graveyard Kit - https://www.kenney.nl/assets/graveyard-kit\nSteampunk Rifle by Jake Sharp - https://poly.pizza/m/1aBSH8_oopt\n\nWishlist Game: https://store.steampowered.com/app/2121710\nDiscord: https://discord.gg/c6rVwBxY2X\nItch: https://legiongames.itch.io/\nTwitter: https://twitter.com/legiongames1\nInstagram: https://www.instagram.com/legiongames1/",
+    "topic": "3D FPS: shooting mechanics",
+    "godot_version": "4.1 (in description)",
+    "upload_date": "2023-06-22",
+    "duration_min": 12.2,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 8.0,
+        "end": 15.0
+      },
+      {
+        "start": 36.0,
+        "end": 54.0
+      },
+      {
+        "start": 59.0,
+        "end": 65.0
+      },
+      {
+        "start": 74.0,
+        "end": 102.0
+      },
+      {
+        "start": 106.0,
+        "end": 168.0
+      },
+      {
+        "start": 173.0,
+        "end": 307.0
+      },
+      {
+        "start": 313.0,
+        "end": 406.0
+      },
+      {
+        "start": 416.0,
+        "end": 439.0
+      },
+      {
+        "start": 444.0,
+        "end": 588.0
+      },
+      {
+        "start": 598.0,
+        "end": 698.0
+      }
+    ],
+    "kept_seconds": 615.0
+  },
+  {
+    "tutorial": 17,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_17.mp4",
+    "youtube_id": "EIMk1FHOKwk",
+    "url": "https://www.youtube.com/watch?v=EIMk1FHOKwk",
+    "title": "Control Player Character with LimboAI Hierarchical State Machine ~ Godot 4.4 Tutorial [P2]",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Adding a Hierarchical State Machine (HSM) to break player logic into separate pieces as it goes between different states and make it more manageable in the long run.\n\nSeries Project Files\nKo-fi ➣ https://ko-fi.com/post/Project-Files-Control-Character-States-with-Limb-P5P118FNW8\nPatreon ➣ https://www.patreon.com/posts/119247384\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\nArt Assets\nTreasure Hunters by Pixel Frog\nhttps://pixelfrog-assets.itch.io/treasure-hunters\n\nTimestamps\n0:00 What to Expect\n0:54 Install Limbo AI 4.3\n2:06 Add Limbo HSM\n3:11 Idle State\n3:49 Initialize State Machine\n5:30 State Label for Debug\n9:04 Playing Animations on Entering States\n12:33 Move State & Adding Transitions\n14:50 Player Input as Seperate Script\n21:51 Static Blackboard BBNames class\n24:04 Move on Idle and Move States\n31:20 Add Transitions and State Dictionary for LimboHSM\n33:23 Removing Move and Direction Logic from Player CharacterBody2D\n34:47 Testing State Transitions",
+    "topic": "LimboAI platformer: player state machine",
+    "godot_version": "4.4",
+    "upload_date": "2025-01-09",
+    "duration_min": 37.1,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 16.0,
+        "end": 2224.0
+      }
+    ],
+    "kept_seconds": 2208.0
+  },
+  {
+    "tutorial": 18,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_18.mp4",
+    "youtube_id": "nQluyQ-1wSI",
+    "url": "https://www.youtube.com/watch?v=nQluyQ-1wSI",
+    "title": "Crash Course ~ How to Make a Resource Gathering Game in Godot 4!",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "🎒 Want the production version with saves, shops & crafting? Get Item Vault for Godot: https://chris-tutorials.itch.io/item-vault-godot?utm_campaign=yt_funnel_resource_hub\n\nFull tutorial series showing how to design and code resource harvesting mechanics for a 2d top down survival or RPG style game in the Godot 4 engine. In this series, we cover many topics including equipment, inventory, particle effects, pickup items, on hit or swing triggers, tilemapping, and Godot resource files. The project, scripts, and assets are all optionally available below but feel free to code along using whatever art packs you like.\n\nSeries Playlist ➣ https://www.youtube.com/playlist?list=PLyH-qXFkNSxlANk9EwZmbtECBfbHeW68-\nFull Project with Scripts, Assets, and Art Pack ➣ https://ko-fi.com/s/e848d87222\nArt Pack ➣ https://chris-tutorials.itch.io/gatherers-exterior-pack\nTutorial Gdscript Download ➣ https://ko-fi.com/s/c02da64555\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n00:00:00 - End Project\n00:02:16 - What to Expect\n00:02:35 - Art Pack\n00:04:10 - Creating a Player\n00:06:27 - Swing Down Animation\n00:09:38 - Animate Tool with Swing Motion\n00:16:36 - Idle Down Animation\n00:18:13 - Walk Down Animation\n00:20:21 - Collision Shape for Player\n00:21:29 - Player Movement\n00:23:32 - Input Actions and 4 Directional Movement\n00:26:59 - Making a Game Level Scene\n00:28:19 - Follow Camera\n00:29:57 - Physics Body for Rock Object\n00:34:16 - Y Sorting Objects in Scene\n00:34:58 - Idle Up, Left, Right and Sorting Tool Behind Player\n00:39:57 - Walk Up, Left, Right\n00:49:21 - Animation Tree & Animation State Machine\n00:52:37 - Setting Animation Parameters in Code\n00:57:22 - Debugging Active Scene with Remote View\n00:58:04 - Adding Animations to Blend Space 2Ds\n01:05:35 - Hitting Resource Node with Equipped Tool\n01:09:54 - Equipable Items\n01:17:05 - Equipped Item Setter to Update Sprite Texture\n01:19:24 - @tool Annotation - Update Sprite in Editor with Code\n01:20:38 - @tool Node Access Limitations\n01:22:52 - Harvesting Tool\n01:30:45 - Giving Types to Resource Nodes\n01:34:27 - Checking Node Type for Tool Harvesting\n01:41:22 - Pickup Object for Harvested Resources\n01:57:02 - Pickup Item and Add to Inventory\n02:06:05 - Making a UI HUD to Show Resources Count\n02:15:00 - Connect Resource Display to Player's Inventory\n02:21:16 - Show Resource Counter for Each Type Added to Inventory\n02:26:28 - Making Wood Resource Type\n02:29:13 - Grid Layout Side by Side Resource Listings\n02:31:19 - Shrinking Resource UI Down\n02:34:16 - Tilemap Collisions and Y-Sorting\n02:38:57 - Collisions with Water Tiles\n02:44:29 - Creating New Resource Node Types\n02:46:09 - Setup Axe Tool to Harvest Trees on Contact\n02:47:02 - Make Trees Harvested by Axe Type\n02:48:08 - Tool Switch Hotbar\n02:54:21 - Set Hotbar Icon with @tool Setter\n02:56:04 - Connect Hotbar to Player by Group Tag\n03:02:18 - Limit Code in @tool Script from Running in Editor\n03:03:58 - Hotbar Positioning Offset\n03:04:49 - Area2D Trigger Harvest Only During Swing Animation\n03:05:19 - Set Animations to Discrete Mode - UpdateCache AnimationPlayer Fix\n03:05:41 - Set Area2D Monitoring During Swing Animation\n03:06:36 - Area Monitoring Off On Script Load & Limit Editor Code from Running\n03:08:36 - Setting Monitoring On and Off in Other Animations\n03:09:58 - Testing Harvest On Swing\n03:10:26 - Particle Explosion on Resource Node Depletion\n03:18:34 - Remove Particle System when Finished\n03:19:35 - Instantiate Particle Effect on Trigger\n03:25:35 - Summary So Far\n03:26:12 - Animated Tiles\n03:30:16 - Filling Tilemap with Details\n03:30:52 - Desert Environment\n03:37:22 - Hotbar Position Fix and Locking Nodes\n03:38:15 - Y Sorting All World Objects\n03:38:55 - Darklands Biome\n03:40:22 - Dark Wood Resource Type\n03:43:38 - Darkland Decor\n03:44:13 - Project Wrapup - Resource Gathering RPG in Godot 4 Tutorial\n\n🎮 Want the production version with saves, shops & crafting? Get Item Vault for Godot: https://chris-tutorials.itch.io/item-vault-godot?utm_campaign=yt_funnel_resource_hub\n━━━ ChrisTutorials Links ━━━\n🌐 Docs, Plugins, Courses & Assets: https://christutorials.com\n💛 Support on Patreon: https://www.patreon.com/ChrisTutorials\n☕ Ko-fi: https://ko-fi.com/ChrisTutorials\n🎮 YouTube Memberships include plugins, assets & courses",
+    "topic": "Resource RPG: full crash course",
+    "godot_version": "4.0 (in tags)",
+    "upload_date": "2023-05-23",
+    "duration_min": 225.5,
+    "excluded": true,
+    "segments": [
+      {
+        "start": 96.0,
+        "end": 155.0
+      },
+      {
+        "start": 184.0,
+        "end": 185.0
+      },
+      {
+        "start": 198.0,
+        "end": 250.0
+      },
+      {
+        "start": 262.0,
+        "end": 4914.0
+      },
+      {
+        "start": 4924.0,
+        "end": 13531.0
+      }
+    ],
+    "kept_seconds": 13371.0
+  },
+  {
+    "tutorial": 19,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_19.mp4",
+    "youtube_id": "bgSlXYs5dw4",
+    "url": "https://www.youtube.com/watch?v=bgSlXYs5dw4",
+    "title": "Create a Player Attack State // E05 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this video we will add an attack state to our player, complete with animations, effects and audio.\n\nTopics Covered: Sprites, Animations, Sprite Layers, Modulate, Signals, Audio Players\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:27 Setup - Import Assets\n1:32 Update Player sprite sheet\n2:25 Continuous Update Sprite Animation Settings\n5:05 Add attack animations\n6:50 Create attack state on our player\n8:20 Hook Idle and Walk states to our Attack State using an input event\n10:30 Finish attack state - make it exit after attack animation\n12:00 Hook into animation finished signal\n15:45 Resolve Error due to connecting to signal repeatedly. Disconnect from signal\n16:40 Improve Attack State - Add Sword effect\n22:20 Issues with sword effect and fixes\n25:20 Add audio to attack\n29:40 Attack movement deceleration\n32:13 Add shadow to player\n--------------------\n\nPrevious Video - Tilemaps & Tilesets: https://youtu.be/axVX2AuJsTA\nNext Video - Hit & Hurt Boxes: https://youtu.be/K6o8vEuqI6Q\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: player attack state",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-03-01",
+    "duration_min": 34.6,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 28.0,
+        "end": 2076.0
+      }
+    ],
+    "kept_seconds": 2048.0
+  },
+  {
+    "tutorial": 20,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_20.mp4",
+    "youtube_id": "mezwctNM4gk",
+    "url": "https://www.youtube.com/watch?v=mezwctNM4gk",
+    "title": "Damageable Enemies, Hitboxes, & Hurtboxes - 1 Bit Platformer [Part 5] - Godot 4.3 Series",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Make an enemy that can be hit by projectiles by using hitboxes and hurtboxes to change the current health value on the enemy.\n\nProject Downloads ~ Snapshot at Each Videos End\nKo-fi ➣ https://ko-fi.com/post/Project-1-Bit-Projectile-Platformer-Tutorial-Ser-U7U510EBNX\nPatreon ➣ https://www.patreon.com/posts/107952055\nItch.io ➣ https://chris-tutorials.itch.io/1-bit-platformer-tutorial-project\n\nAssets & Credits ➣ https://pastebin.com/qa4NiTyu\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Support Channel with Crypto Donations\nhttps://pastebin.com/WAnBPcXs\n00:00 - What to Expect\n01:02 - Projectile Collision Mask\n03:41 - Projectile Gravity Scale\n04:18 - Create an Attackable Enemy\n07:06 - Making a Hurtbox Area2D\n10:02 - Hurtbox and Stats Scripts\n18:18 - Hitbox2D Script\n20:51 - Add Weapon Stats to Hitbox\n22:41 - Sharing Weapon Stats\n26:10 - Testing Hit Enemies with Projectiles\n29:04 - Wrapup",
+    "topic": "1-bit platformer: hitboxes and hurtboxes",
+    "godot_version": "4.3",
+    "upload_date": "2024-07-17",
+    "duration_min": 29.7,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 55.0,
+        "end": 1141.0
+      },
+      {
+        "start": 1143.0,
+        "end": 1783.0
+      }
+    ],
+    "kept_seconds": 1726.0
+  },
+  {
+    "tutorial": 21,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_21.mp4",
+    "youtube_id": "dV6S_11pyzo",
+    "url": "https://www.youtube.com/watch?v=dV6S_11pyzo",
+    "title": "Design 3D Game Levels From Scratch - Godot 4 Tutorial",
+    "creator": "LegionGames",
+    "creator_id": "UCK2Z1ksHQUKFQXMBrmBmuVA",
+    "tutorial_description": "In this beginner friendly tutorial video we design a graveyard level from scratch for a Godot 4 FPS game similar to Call of Duty: Zombies. The covered environment design topics include importing 3D models, editing materials, optimizing collision shapes, designing terrain, implementing lighting and fog, and adding grass. All of this code works with Godot 4.1.\n\nSupport the channel: https://www.patreon.com/LegionGames\nGithub: https://github.com/LegionGames/ZombieLevel\n\nAssets:\nGround texture by 0melapics: https://www.freepik.com/free-vector/earth-texture_997013.htm\nKenney Graveyard Kit - https://www.kenney.nl/assets/graveyard-kit\n\nWishlist My Game: https://store.steampowered.com/app/2121710\nDiscord: https://discord.gg/c6rVwBxY2X\nItch: https://legiongames.itch.io/\nTwitter: https://twitter.com/legiongames1\nInstagram: https://www.instagram.com/legiongames1/",
+    "topic": "3D FPS: level design",
+    "godot_version": "4.1.3 (in tags)",
+    "upload_date": "2023-06-04",
+    "duration_min": 11.1,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 23.0,
+        "end": 35.0
+      },
+      {
+        "start": 39.0,
+        "end": 55.0
+      },
+      {
+        "start": 67.0,
+        "end": 117.0
+      },
+      {
+        "start": 119.0,
+        "end": 122.0
+      },
+      {
+        "start": 124.0,
+        "end": 217.0
+      },
+      {
+        "start": 223.0,
+        "end": 254.0
+      },
+      {
+        "start": 258.0,
+        "end": 283.0
+      },
+      {
+        "start": 286.0,
+        "end": 325.0
+      },
+      {
+        "start": 340.0,
+        "end": 351.0
+      },
+      {
+        "start": 360.0,
+        "end": 385.0
+      },
+      {
+        "start": 393.0,
+        "end": 398.0
+      },
+      {
+        "start": 405.0,
+        "end": 478.0
+      },
+      {
+        "start": 483.0,
+        "end": 489.0
+      },
+      {
+        "start": 492.0,
+        "end": 503.0
+      },
+      {
+        "start": 517.0,
+        "end": 639.0
+      }
+    ],
+    "kept_seconds": 522.0
+  },
+  {
+    "tutorial": 22,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_22.mp4",
+    "youtube_id": "XUZGcse8cUQ",
+    "url": "https://www.youtube.com/watch?v=XUZGcse8cUQ",
+    "title": "Directional Knockback for CharacterBody2D ~ 1 Bit Platformer Part 12 ~ Godot 4.3",
+    "creator": "Chris' Tutorials",
+    "creator_id": "UCwdKySs6j48yl1ae8csAurQ",
+    "tutorial_description": "Apply a knockback vector to a CharacterBody2D on hit from projectiles landing. Part of the bigger series on building a projectile platformer 2D game in Godot 4.3.\n\nProject Downloads ~ Snapshot at Each Videos End\nKo-fi ➣ https://ko-fi.com/post/Project-1-Bit-Projectile-Platformer-Tutorial-Ser-U7U510EBNX\nPatreon ➣ https://www.patreon.com/posts/107952055\nItch.io ➣ https://chris-tutorials.itch.io/1-bit-platformer-tutorial-project\n\nAssets & Credits ➣ https://pastebin.com/qa4NiTyu\n\nGrid Building Plugin ➣ https://linktr.ee/gridbuilder\nWorld Time Plugin ➣ https://linktr.ee/worldtimeplugin\nItem Drops Plugin ➣ https://linktr.ee/itemdrops\n\n➣ Downloadable Assets, Video Courses, and Other Places to Follow Me\nhttps://linktr.ee/ChrisTutorials\nhttps://ko-fi.com/christutorials\nhttps://patreon.com/christutorials\nhttps://chris-tutorials.itch.io/\n\n➣ Support Channel with Crypto Donations\nhttps://pastebin.com/WAnBPcXs\n\n00:00 - What to Expect\n00:28 - Knockback Object\n05:35 - Adding Knockback Movement to PlayHitAction\n11:35 - First Test\n13:14 - Hit Data Updates\n14:19 - Fix:: Remove Hit Data if no Knockback\n16:33 - Second Test\n17:11 - Left Right Ground Knockback\n23:44 - Calculate Hit Position from CharacterBody2D\n26:52 - Wrapup",
+    "topic": "1-bit platformer: directional knockback",
+    "godot_version": "4.3",
+    "upload_date": "2024-07-30",
+    "duration_min": 27.7,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 28.0,
+        "end": 1659.0
+      }
+    ],
+    "kept_seconds": 1631.0
+  },
+  {
+    "tutorial": 23,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_23.mp4",
+    "youtube_id": "bA_XXOTdAOU",
+    "url": "https://www.youtube.com/watch?v=bA_XXOTdAOU",
+    "title": "Dungeon Puzzles 01 // E23 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this tutorial we will build 3 elements we can use to build puzzles and puzzle rooms in our game. The 3 gameplay elements are \"barred doors,\" \"pressure triggers\" and a \"push-able statue.\" We will put these 3 ingredients together in our first dungeon room to build s simple puzzle.\n\nTopics Covered: Triggers, switches, doors, pushable objects, connect via signals, signals, RigidBody2D\n\nNew Assets Needed:\n- dungeon.png\n- dungeon_entrance.png\n- dungeon_props.png\n- lever-01.wav\n- lever-02.wav\n- bars_open.wav\n- push_stone.wav\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\nGitHub Repo: https://github.com/michaelmalaska/aarpg-tutorial\nDiscord: https://discord.gg/rkzBfHaudc\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:40 Setup\n1:59 Review New Dungeon TileMap and Scenes\n3:56 Set Up Dungeon Entrance\n11:12 PressurePlate\n27:16 BarredDoor\n33:20 Grab Additional \"bars_open.wav\" for door animations\n35:31 BarredDoor Class/Script\n39:17 Code Adjustment/Explanation\n40:00 Pushable Statue\n46:22 Push Area on Player\n50:45 Add Drag Audio to Statue\n52:41 Add Area Transition Behind Door\n54:30 Wrap up/Outro\n--------------------\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: dungeon puzzles 1",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-05-24",
+    "duration_min": 55.9,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 11.0
+      },
+      {
+        "start": 41.0,
+        "end": 235.0
+      },
+      {
+        "start": 237.0,
+        "end": 3308.0
+      }
+    ],
+    "kept_seconds": 3276.0
+  },
+  {
+    "tutorial": 24,
+    "video": "/mnt/hitchcock/scratch/oberon/datasets/godot_raw_video/Godot_tutorial_24.mp4",
+    "youtube_id": "UV-pwKZ3jHE",
+    "url": "https://www.youtube.com/watch?v=UV-pwKZ3jHE",
+    "title": "Dungeon Puzzles 02 // E24 // Make a 2D Action & Adventure RPG in Godot 4",
+    "creator": "Michael Games",
+    "creator_id": "UCGdBX2xbNC-4Hwhu37ax8aA",
+    "tutorial_description": "In this tutorial we will build 3 more elements we can use to build puzzles and puzzle rooms in our game. The 3 gameplay elements are \"locked doors,\" \"enemy counter\" and an \"item dropper.\" We will put these 3 ingredients together in our second and third dungeon room to build a simple puzzle.\n\nTopics Covered: doors, enemies, enemy defeated event, lock and key, connect via signals\n\nNew Assets Needed:\n- item.png (updated)\n- locked_door.wav\n- unlock_door.wav\n- dungeon_discovery.wav\n\nAsset Download Page: https://michaelgames.itch.io/2d-action-adventure-rpg-assets\nGitHub Repo: https://github.com/michaelmalaska/aarpg-tutorial\nDiscord: https://discord.gg/rkzBfHaudc\n\n--------------------\nChapters\n--------------------\n0:00 Intro\n0:50 Room and Setup Overview\n2:03 New Dungeon Key Item\n3:46 Locked Door Scene Setup\n9:12 Locked Door Script and Interaction\n19:02 Connect Locked Door and Inventory System\n23:05 Locked Door Animations\n27:44 Make Door State Persistent\n33:20 Enemy Counter Scene\n41:26 Item Dropper Scene\n43:09 Move dungeon_discovery.wav\n45:51 Item Dropper Script\n57:43 Add picked_up Signal to ItemPickup script\n59:24 Test it All Out\n1:00:44 Outro & What to Expect Next\n--------------------\n\nSeries Playlist: https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa",
+    "topic": "Action RPG: dungeon puzzles 2",
+    "godot_version": "4 (≈4.2 by date)",
+    "upload_date": "2024-06-11",
+    "duration_min": 63.0,
+    "excluded": false,
+    "segments": [
+      {
+        "start": 51.0,
+        "end": 122.0
+      },
+      {
+        "start": 124.0,
+        "end": 2117.0
+      },
+      {
+        "start": 2120.0,
+        "end": 3162.0
+      },
+      {
+        "start": 3164.0,
+        "end": 3778.0
+      }
+    ],
+    "kept_seconds": 3720.0
+  }
+]

@@ -1,0 +1,387 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_17.mp4",
+ "params": {
+  "mode": "count",
+  "borderline_max": 120,
+  "band_scale": 3,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "neither": 15,
+  "valid": 16
+ },
+ "runs": [
+  {
+   "label": "neither",
+   "start": 0.0,
+   "end": 14.0,
+   "n_frames": 15
+  },
+  {
+   "label": "valid",
+   "start": 15.0,
+   "end": 30.0,
+   "n_frames": 16
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 25,
+   "n_elements": 25,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 24,
+   "n_elements": 24,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 24,
+   "n_elements": 24,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 24,
+   "n_elements": 24,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 23,
+   "n_elements": 23,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 28,
+   "n_elements": 28,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 28,
+   "n_elements": 28,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 27,
+   "n_elements": 27,
+   "ocr_pass": null,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 191,
+   "n_elements": 191,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 189,
+   "n_elements": 189,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 185,
+   "n_elements": 185,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 184,
+   "n_elements": 184,
+   "ocr_pass": null,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  }
+ ]
+}

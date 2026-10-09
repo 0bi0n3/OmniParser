@@ -1,0 +1,2708 @@
+{
+ "seed": 35,
+ "results_dir": "results/pvf_5min_borderline_k5_min50",
+ "n_accepted": 200,
+ "n_rejected": 100,
+ "items": [
+  {
+   "id": "t12_291s",
+   "stem": "Godot_tutorial_12",
+   "t": 291.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 120,
+   "keywords": 8
+  },
+  {
+   "id": "t13_23s",
+   "stem": "Godot_tutorial_13",
+   "t": 23.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 2,
+   "keywords": 0
+  },
+  {
+   "id": "t16_98s",
+   "stem": "Godot_tutorial_16",
+   "t": 98.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 203,
+   "keywords": 0
+  },
+  {
+   "id": "t10_117s",
+   "stem": "Godot_tutorial_10",
+   "t": 117.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 280,
+   "keywords": 0
+  },
+  {
+   "id": "t3_165s",
+   "stem": "Godot_tutorial_3",
+   "t": 165.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 276,
+   "keywords": 0
+  },
+  {
+   "id": "t12_12s",
+   "stem": "Godot_tutorial_12",
+   "t": 12.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t13_244s",
+   "stem": "Godot_tutorial_13",
+   "t": 244.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 151,
+   "keywords": 0
+  },
+  {
+   "id": "t18_48s",
+   "stem": "Godot_tutorial_18",
+   "t": 48.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 11,
+   "keywords": 0
+  },
+  {
+   "id": "t20_135s",
+   "stem": "Godot_tutorial_20",
+   "t": 135.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 212,
+   "keywords": 0
+  },
+  {
+   "id": "t18_6s",
+   "stem": "Godot_tutorial_18",
+   "t": 6.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 10,
+   "keywords": 0
+  },
+  {
+   "id": "t14_5s",
+   "stem": "Godot_tutorial_14",
+   "t": 5.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 3,
+   "keywords": 0
+  },
+  {
+   "id": "t1_197s",
+   "stem": "Godot_tutorial_1",
+   "t": 197.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 258,
+   "keywords": 0
+  },
+  {
+   "id": "t12_239s",
+   "stem": "Godot_tutorial_12",
+   "t": 239.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 141,
+   "keywords": 0
+  },
+  {
+   "id": "t2_108s",
+   "stem": "Godot_tutorial_2",
+   "t": 108.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 202,
+   "keywords": 0
+  },
+  {
+   "id": "t9_1s",
+   "stem": "Godot_tutorial_9",
+   "t": 1.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 5,
+   "keywords": 0
+  },
+  {
+   "id": "t7_2s",
+   "stem": "Godot_tutorial_7",
+   "t": 2.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 3,
+   "keywords": 0
+  },
+  {
+   "id": "t16_3s",
+   "stem": "Godot_tutorial_16",
+   "t": 3.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t10_0s",
+   "stem": "Godot_tutorial_10",
+   "t": 0.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t12_10s",
+   "stem": "Godot_tutorial_12",
+   "t": 10.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 14,
+   "keywords": 0
+  },
+  {
+   "id": "t17_23s",
+   "stem": "Godot_tutorial_17",
+   "t": 23.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 184,
+   "keywords": 0
+  },
+  {
+   "id": "t1_170s",
+   "stem": "Godot_tutorial_1",
+   "t": 170.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 226,
+   "keywords": 0
+  },
+  {
+   "id": "t20_41s",
+   "stem": "Godot_tutorial_20",
+   "t": 41.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t1_13s",
+   "stem": "Godot_tutorial_1",
+   "t": 13.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 266,
+   "keywords": 0
+  },
+  {
+   "id": "t8_177s",
+   "stem": "Godot_tutorial_8",
+   "t": 177.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 120,
+   "keywords": 9
+  },
+  {
+   "id": "t18_70s",
+   "stem": "Godot_tutorial_18",
+   "t": 70.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 17,
+   "keywords": 0
+  },
+  {
+   "id": "t5_179s",
+   "stem": "Godot_tutorial_5",
+   "t": 179.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 180,
+   "keywords": 0
+  },
+  {
+   "id": "t16_16s",
+   "stem": "Godot_tutorial_16",
+   "t": 16.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t6_49s",
+   "stem": "Godot_tutorial_6",
+   "t": 49.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 179,
+   "keywords": 0
+  },
+  {
+   "id": "t10_240s",
+   "stem": "Godot_tutorial_10",
+   "t": 240.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 255,
+   "keywords": 0
+  },
+  {
+   "id": "t16_23s",
+   "stem": "Godot_tutorial_16",
+   "t": 23.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t6_141s",
+   "stem": "Godot_tutorial_6",
+   "t": 141.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 146,
+   "keywords": 0
+  },
+  {
+   "id": "t19_72s",
+   "stem": "Godot_tutorial_19",
+   "t": 72.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 289,
+   "keywords": 0
+  },
+  {
+   "id": "t3_87s",
+   "stem": "Godot_tutorial_3",
+   "t": 87.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 235,
+   "keywords": 0
+  },
+  {
+   "id": "t11_13s",
+   "stem": "Godot_tutorial_11",
+   "t": 13.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t7_39s",
+   "stem": "Godot_tutorial_7",
+   "t": 39.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 134,
+   "keywords": 0
+  },
+  {
+   "id": "t20_245s",
+   "stem": "Godot_tutorial_20",
+   "t": 245.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 97,
+   "keywords": 9
+  },
+  {
+   "id": "t3_175s",
+   "stem": "Godot_tutorial_3",
+   "t": 175.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 204,
+   "keywords": 0
+  },
+  {
+   "id": "t12_48s",
+   "stem": "Godot_tutorial_12",
+   "t": 48.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 192,
+   "keywords": 0
+  },
+  {
+   "id": "t11_151s",
+   "stem": "Godot_tutorial_11",
+   "t": 151.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 161,
+   "keywords": 0
+  },
+  {
+   "id": "t2_28s",
+   "stem": "Godot_tutorial_2",
+   "t": 28.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t10_110s",
+   "stem": "Godot_tutorial_10",
+   "t": 110.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 258,
+   "keywords": 0
+  },
+  {
+   "id": "t6_164s",
+   "stem": "Godot_tutorial_6",
+   "t": 164.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 188,
+   "keywords": 0
+  },
+  {
+   "id": "t2_93s",
+   "stem": "Godot_tutorial_2",
+   "t": 93.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 202,
+   "keywords": 0
+  },
+  {
+   "id": "t1_40s",
+   "stem": "Godot_tutorial_1",
+   "t": 40.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 240,
+   "keywords": 0
+  },
+  {
+   "id": "t20_181s",
+   "stem": "Godot_tutorial_20",
+   "t": 181.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 133,
+   "keywords": 0
+  },
+  {
+   "id": "t12_14s",
+   "stem": "Godot_tutorial_12",
+   "t": 14.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 14,
+   "keywords": 0
+  },
+  {
+   "id": "t10_169s",
+   "stem": "Godot_tutorial_10",
+   "t": 169.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 124,
+   "keywords": 0
+  },
+  {
+   "id": "t5_246s",
+   "stem": "Godot_tutorial_5",
+   "t": 246.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 192,
+   "keywords": 0
+  },
+  {
+   "id": "t17_220s",
+   "stem": "Godot_tutorial_17",
+   "t": 220.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 129,
+   "keywords": 0
+  },
+  {
+   "id": "t12_91s",
+   "stem": "Godot_tutorial_12",
+   "t": 91.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t5_33s",
+   "stem": "Godot_tutorial_5",
+   "t": 33.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 162,
+   "keywords": 0
+  },
+  {
+   "id": "t8_114s",
+   "stem": "Godot_tutorial_8",
+   "t": 114.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 103,
+   "keywords": 0
+  },
+  {
+   "id": "t19_3s",
+   "stem": "Godot_tutorial_19",
+   "t": 3.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t11_45s",
+   "stem": "Godot_tutorial_11",
+   "t": 45.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 24,
+   "keywords": 0
+  },
+  {
+   "id": "t15_3s",
+   "stem": "Godot_tutorial_15",
+   "t": 3.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 21,
+   "keywords": 0
+  },
+  {
+   "id": "t17_272s",
+   "stem": "Godot_tutorial_17",
+   "t": 272.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 143,
+   "keywords": 0
+  },
+  {
+   "id": "t18_34s",
+   "stem": "Godot_tutorial_18",
+   "t": 34.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t11_157s",
+   "stem": "Godot_tutorial_11",
+   "t": 157.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 155,
+   "keywords": 0
+  },
+  {
+   "id": "t15_4s",
+   "stem": "Godot_tutorial_15",
+   "t": 4.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 21,
+   "keywords": 0
+  },
+  {
+   "id": "t20_126s",
+   "stem": "Godot_tutorial_20",
+   "t": 126.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 219,
+   "keywords": 0
+  },
+  {
+   "id": "t15_114s",
+   "stem": "Godot_tutorial_15",
+   "t": 114.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 133,
+   "keywords": 0
+  },
+  {
+   "id": "t20_46s",
+   "stem": "Godot_tutorial_20",
+   "t": 46.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t6_271s",
+   "stem": "Godot_tutorial_6",
+   "t": 271.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 222,
+   "keywords": 0
+  },
+  {
+   "id": "t19_24s",
+   "stem": "Godot_tutorial_19",
+   "t": 24.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t20_224s",
+   "stem": "Godot_tutorial_20",
+   "t": 224.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 139,
+   "keywords": 0
+  },
+  {
+   "id": "t18_23s",
+   "stem": "Godot_tutorial_18",
+   "t": 23.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 9,
+   "keywords": 0
+  },
+  {
+   "id": "t3_250s",
+   "stem": "Godot_tutorial_3",
+   "t": 250.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 252,
+   "keywords": 0
+  },
+  {
+   "id": "t11_110s",
+   "stem": "Godot_tutorial_11",
+   "t": 110.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 235,
+   "keywords": 0
+  },
+  {
+   "id": "t4_135s",
+   "stem": "Godot_tutorial_4",
+   "t": 135.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 232,
+   "keywords": 0
+  },
+  {
+   "id": "t8_133s",
+   "stem": "Godot_tutorial_8",
+   "t": 133.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 105,
+   "keywords": 0
+  },
+  {
+   "id": "t12_251s",
+   "stem": "Godot_tutorial_12",
+   "t": 251.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 169,
+   "keywords": 0
+  },
+  {
+   "id": "t17_233s",
+   "stem": "Godot_tutorial_17",
+   "t": 233.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 129,
+   "keywords": 0
+  },
+  {
+   "id": "t15_84s",
+   "stem": "Godot_tutorial_15",
+   "t": 84.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 121,
+   "keywords": 0
+  },
+  {
+   "id": "t13_117s",
+   "stem": "Godot_tutorial_13",
+   "t": 117.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 204,
+   "keywords": 0
+  },
+  {
+   "id": "t10_92s",
+   "stem": "Godot_tutorial_10",
+   "t": 92.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 163,
+   "keywords": 0
+  },
+  {
+   "id": "t10_33s",
+   "stem": "Godot_tutorial_10",
+   "t": 33.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 272,
+   "keywords": 0
+  },
+  {
+   "id": "t9_2s",
+   "stem": "Godot_tutorial_9",
+   "t": 2.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 5,
+   "keywords": 0
+  },
+  {
+   "id": "t11_235s",
+   "stem": "Godot_tutorial_11",
+   "t": 235.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 172,
+   "keywords": 0
+  },
+  {
+   "id": "t4_15s",
+   "stem": "Godot_tutorial_4",
+   "t": 15.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 203,
+   "keywords": 0
+  },
+  {
+   "id": "t7_144s",
+   "stem": "Godot_tutorial_7",
+   "t": 144.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 187,
+   "keywords": 0
+  },
+  {
+   "id": "t5_25s",
+   "stem": "Godot_tutorial_5",
+   "t": 25.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 175,
+   "keywords": 0
+  },
+  {
+   "id": "t4_66s",
+   "stem": "Godot_tutorial_4",
+   "t": 66.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 215,
+   "keywords": 0
+  },
+  {
+   "id": "t3_293s",
+   "stem": "Godot_tutorial_3",
+   "t": 293.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 258,
+   "keywords": 0
+  },
+  {
+   "id": "t1_125s",
+   "stem": "Godot_tutorial_1",
+   "t": 125.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 287,
+   "keywords": 0
+  },
+  {
+   "id": "t7_269s",
+   "stem": "Godot_tutorial_7",
+   "t": 269.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 220,
+   "keywords": 0
+  },
+  {
+   "id": "t20_48s",
+   "stem": "Godot_tutorial_20",
+   "t": 48.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t14_8s",
+   "stem": "Godot_tutorial_14",
+   "t": 8.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 7,
+   "keywords": 0
+  },
+  {
+   "id": "t8_38s",
+   "stem": "Godot_tutorial_8",
+   "t": 38.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 104,
+   "keywords": 2
+  },
+  {
+   "id": "t2_44s",
+   "stem": "Godot_tutorial_2",
+   "t": 44.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 196,
+   "keywords": 0
+  },
+  {
+   "id": "t15_11s",
+   "stem": "Godot_tutorial_15",
+   "t": 11.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 18,
+   "keywords": 0
+  },
+  {
+   "id": "t2_87s",
+   "stem": "Godot_tutorial_2",
+   "t": 87.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t18_166s",
+   "stem": "Godot_tutorial_18",
+   "t": 166.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 71,
+   "keywords": 0
+  },
+  {
+   "id": "t18_174s",
+   "stem": "Godot_tutorial_18",
+   "t": 174.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 77,
+   "keywords": 0
+  },
+  {
+   "id": "t19_87s",
+   "stem": "Godot_tutorial_19",
+   "t": 87.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 283,
+   "keywords": 0
+  },
+  {
+   "id": "t13_13s",
+   "stem": "Godot_tutorial_13",
+   "t": 13.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t8_190s",
+   "stem": "Godot_tutorial_8",
+   "t": 190.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 124,
+   "keywords": 0
+  },
+  {
+   "id": "t12_77s",
+   "stem": "Godot_tutorial_12",
+   "t": 77.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 205,
+   "keywords": 0
+  },
+  {
+   "id": "t6_144s",
+   "stem": "Godot_tutorial_6",
+   "t": 144.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 145,
+   "keywords": 0
+  },
+  {
+   "id": "t6_161s",
+   "stem": "Godot_tutorial_6",
+   "t": 161.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t6_299s",
+   "stem": "Godot_tutorial_6",
+   "t": 299.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 220,
+   "keywords": 0
+  },
+  {
+   "id": "t20_32s",
+   "stem": "Godot_tutorial_20",
+   "t": 32.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 9,
+   "keywords": 0
+  },
+  {
+   "id": "t10_221s",
+   "stem": "Godot_tutorial_10",
+   "t": 221.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 259,
+   "keywords": 0
+  },
+  {
+   "id": "t19_10s",
+   "stem": "Godot_tutorial_19",
+   "t": 10.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t17_1s",
+   "stem": "Godot_tutorial_17",
+   "t": 1.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 25,
+   "keywords": 0
+  },
+  {
+   "id": "t14_94s",
+   "stem": "Godot_tutorial_14",
+   "t": 94.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 190,
+   "keywords": 0
+  },
+  {
+   "id": "t8_31s",
+   "stem": "Godot_tutorial_8",
+   "t": 31.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 102,
+   "keywords": 2
+  },
+  {
+   "id": "t17_122s",
+   "stem": "Godot_tutorial_17",
+   "t": 122.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 171,
+   "keywords": 0
+  },
+  {
+   "id": "t16_187s",
+   "stem": "Godot_tutorial_16",
+   "t": 187.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 144,
+   "keywords": 0
+  },
+  {
+   "id": "t9_18s",
+   "stem": "Godot_tutorial_9",
+   "t": 18.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 2,
+   "keywords": 0
+  },
+  {
+   "id": "t18_183s",
+   "stem": "Godot_tutorial_18",
+   "t": 183.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 77,
+   "keywords": 0
+  },
+  {
+   "id": "t1_167s",
+   "stem": "Godot_tutorial_1",
+   "t": 167.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 226,
+   "keywords": 0
+  },
+  {
+   "id": "t12_146s",
+   "stem": "Godot_tutorial_12",
+   "t": 146.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 134,
+   "keywords": 0
+  },
+  {
+   "id": "t13_275s",
+   "stem": "Godot_tutorial_13",
+   "t": 275.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 152,
+   "keywords": 0
+  },
+  {
+   "id": "t16_69s",
+   "stem": "Godot_tutorial_16",
+   "t": 69.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t20_66s",
+   "stem": "Godot_tutorial_20",
+   "t": 66.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 110,
+   "keywords": 9
+  },
+  {
+   "id": "t13_19s",
+   "stem": "Godot_tutorial_13",
+   "t": 19.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 4,
+   "keywords": 0
+  },
+  {
+   "id": "t2_228s",
+   "stem": "Godot_tutorial_2",
+   "t": 228.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t1_226s",
+   "stem": "Godot_tutorial_1",
+   "t": 226.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 288,
+   "keywords": 0
+  },
+  {
+   "id": "t14_42s",
+   "stem": "Godot_tutorial_14",
+   "t": 42.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 240,
+   "keywords": 0
+  },
+  {
+   "id": "t7_191s",
+   "stem": "Godot_tutorial_7",
+   "t": 191.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 192,
+   "keywords": 0
+  },
+  {
+   "id": "t3_171s",
+   "stem": "Godot_tutorial_3",
+   "t": 171.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 274,
+   "keywords": 0
+  },
+  {
+   "id": "t17_253s",
+   "stem": "Godot_tutorial_17",
+   "t": 253.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 136,
+   "keywords": 0
+  },
+  {
+   "id": "t1_136s",
+   "stem": "Godot_tutorial_1",
+   "t": 136.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 287,
+   "keywords": 0
+  },
+  {
+   "id": "t3_23s",
+   "stem": "Godot_tutorial_3",
+   "t": 23.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 152,
+   "keywords": 0
+  },
+  {
+   "id": "t1_254s",
+   "stem": "Godot_tutorial_1",
+   "t": 254.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 288,
+   "keywords": 0
+  },
+  {
+   "id": "t20_10s",
+   "stem": "Godot_tutorial_20",
+   "t": 10.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 17,
+   "keywords": 0
+  },
+  {
+   "id": "t18_1s",
+   "stem": "Godot_tutorial_18",
+   "t": 1.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 11,
+   "keywords": 0
+  },
+  {
+   "id": "t16_90s",
+   "stem": "Godot_tutorial_16",
+   "t": 90.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 187,
+   "keywords": 0
+  },
+  {
+   "id": "t12_248s",
+   "stem": "Godot_tutorial_12",
+   "t": 248.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 169,
+   "keywords": 0
+  },
+  {
+   "id": "t9_250s",
+   "stem": "Godot_tutorial_9",
+   "t": 250.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 148,
+   "keywords": 0
+  },
+  {
+   "id": "t3_288s",
+   "stem": "Godot_tutorial_3",
+   "t": 288.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 203,
+   "keywords": 0
+  },
+  {
+   "id": "t8_23s",
+   "stem": "Godot_tutorial_8",
+   "t": 23.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 51,
+   "keywords": 0
+  },
+  {
+   "id": "t20_47s",
+   "stem": "Godot_tutorial_20",
+   "t": 47.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t10_51s",
+   "stem": "Godot_tutorial_10",
+   "t": 51.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 181,
+   "keywords": 0
+  },
+  {
+   "id": "t15_32s",
+   "stem": "Godot_tutorial_15",
+   "t": 32.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 21,
+   "keywords": 0
+  },
+  {
+   "id": "t19_41s",
+   "stem": "Godot_tutorial_19",
+   "t": 41.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 196,
+   "keywords": 0
+  },
+  {
+   "id": "t4_212s",
+   "stem": "Godot_tutorial_4",
+   "t": 212.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 189,
+   "keywords": 0
+  },
+  {
+   "id": "t18_88s",
+   "stem": "Godot_tutorial_18",
+   "t": 88.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 17,
+   "keywords": 0
+  },
+  {
+   "id": "t6_281s",
+   "stem": "Godot_tutorial_6",
+   "t": 281.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 221,
+   "keywords": 0
+  },
+  {
+   "id": "t6_138s",
+   "stem": "Godot_tutorial_6",
+   "t": 138.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 144,
+   "keywords": 0
+  },
+  {
+   "id": "t3_55s",
+   "stem": "Godot_tutorial_3",
+   "t": 55.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 200,
+   "keywords": 0
+  },
+  {
+   "id": "t2_38s",
+   "stem": "Godot_tutorial_2",
+   "t": 38.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t16_72s",
+   "stem": "Godot_tutorial_16",
+   "t": 72.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t20_116s",
+   "stem": "Godot_tutorial_20",
+   "t": 116.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 216,
+   "keywords": 0
+  },
+  {
+   "id": "t4_261s",
+   "stem": "Godot_tutorial_4",
+   "t": 261.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 212,
+   "keywords": 0
+  },
+  {
+   "id": "t12_115s",
+   "stem": "Godot_tutorial_12",
+   "t": 115.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 104,
+   "keywords": 9
+  },
+  {
+   "id": "t13_131s",
+   "stem": "Godot_tutorial_13",
+   "t": 131.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 177,
+   "keywords": 0
+  },
+  {
+   "id": "t18_191s",
+   "stem": "Godot_tutorial_18",
+   "t": 191.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 55,
+   "keywords": 0
+  },
+  {
+   "id": "t5_94s",
+   "stem": "Godot_tutorial_5",
+   "t": 94.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 180,
+   "keywords": 0
+  },
+  {
+   "id": "t8_42s",
+   "stem": "Godot_tutorial_8",
+   "t": 42.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 103,
+   "keywords": 2
+  },
+  {
+   "id": "t7_79s",
+   "stem": "Godot_tutorial_7",
+   "t": 79.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 237,
+   "keywords": 0
+  },
+  {
+   "id": "t14_193s",
+   "stem": "Godot_tutorial_14",
+   "t": 193.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 192,
+   "keywords": 0
+  },
+  {
+   "id": "t9_13s",
+   "stem": "Godot_tutorial_9",
+   "t": 13.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 6,
+   "keywords": 0
+  },
+  {
+   "id": "t17_7s",
+   "stem": "Godot_tutorial_17",
+   "t": 7.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 28,
+   "keywords": 0
+  },
+  {
+   "id": "t1_189s",
+   "stem": "Godot_tutorial_1",
+   "t": 189.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 251,
+   "keywords": 0
+  },
+  {
+   "id": "t16_199s",
+   "stem": "Godot_tutorial_16",
+   "t": 199.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 150,
+   "keywords": 0
+  },
+  {
+   "id": "t5_83s",
+   "stem": "Godot_tutorial_5",
+   "t": 83.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 175,
+   "keywords": 0
+  },
+  {
+   "id": "t17_98s",
+   "stem": "Godot_tutorial_17",
+   "t": 98.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 178,
+   "keywords": 0
+  },
+  {
+   "id": "t6_23s",
+   "stem": "Godot_tutorial_6",
+   "t": 23.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 178,
+   "keywords": 0
+  },
+  {
+   "id": "t16_56s",
+   "stem": "Godot_tutorial_16",
+   "t": 56.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t18_86s",
+   "stem": "Godot_tutorial_18",
+   "t": 86.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 18,
+   "keywords": 0
+  },
+  {
+   "id": "t18_94s",
+   "stem": "Godot_tutorial_18",
+   "t": 94.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 17,
+   "keywords": 0
+  },
+  {
+   "id": "t15_14s",
+   "stem": "Godot_tutorial_15",
+   "t": 14.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 11,
+   "keywords": 0
+  },
+  {
+   "id": "t3_159s",
+   "stem": "Godot_tutorial_3",
+   "t": 159.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 270,
+   "keywords": 0
+  },
+  {
+   "id": "t6_145s",
+   "stem": "Godot_tutorial_6",
+   "t": 145.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 144,
+   "keywords": 0
+  },
+  {
+   "id": "t11_219s",
+   "stem": "Godot_tutorial_11",
+   "t": 219.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 169,
+   "keywords": 0
+  },
+  {
+   "id": "t14_224s",
+   "stem": "Godot_tutorial_14",
+   "t": 224.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 121,
+   "keywords": 0
+  },
+  {
+   "id": "t6_72s",
+   "stem": "Godot_tutorial_6",
+   "t": 72.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 180,
+   "keywords": 0
+  },
+  {
+   "id": "t8_209s",
+   "stem": "Godot_tutorial_8",
+   "t": 209.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 147,
+   "keywords": 0
+  },
+  {
+   "id": "t1_23s",
+   "stem": "Godot_tutorial_1",
+   "t": 23.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 246,
+   "keywords": 0
+  },
+  {
+   "id": "t18_146s",
+   "stem": "Godot_tutorial_18",
+   "t": 146.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 114,
+   "keywords": 9
+  },
+  {
+   "id": "t12_50s",
+   "stem": "Godot_tutorial_12",
+   "t": 50.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t17_148s",
+   "stem": "Godot_tutorial_17",
+   "t": 148.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 114,
+   "keywords": 9
+  },
+  {
+   "id": "t6_91s",
+   "stem": "Godot_tutorial_6",
+   "t": 91.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 180,
+   "keywords": 0
+  },
+  {
+   "id": "t18_60s",
+   "stem": "Godot_tutorial_18",
+   "t": 60.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 10,
+   "keywords": 0
+  },
+  {
+   "id": "t14_168s",
+   "stem": "Godot_tutorial_14",
+   "t": 168.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t8_227s",
+   "stem": "Godot_tutorial_8",
+   "t": 227.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 148,
+   "keywords": 0
+  },
+  {
+   "id": "t12_238s",
+   "stem": "Godot_tutorial_12",
+   "t": 238.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 141,
+   "keywords": 0
+  },
+  {
+   "id": "t5_32s",
+   "stem": "Godot_tutorial_5",
+   "t": 32.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 175,
+   "keywords": 0
+  },
+  {
+   "id": "t8_113s",
+   "stem": "Godot_tutorial_8",
+   "t": 113.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 106,
+   "keywords": 0
+  },
+  {
+   "id": "t8_16s",
+   "stem": "Godot_tutorial_8",
+   "t": 16.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 61,
+   "keywords": 0
+  },
+  {
+   "id": "t8_59s",
+   "stem": "Godot_tutorial_8",
+   "t": 59.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 78,
+   "keywords": 9
+  },
+  {
+   "id": "t9_240s",
+   "stem": "Godot_tutorial_9",
+   "t": 240.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 155,
+   "keywords": 0
+  },
+  {
+   "id": "t8_242s",
+   "stem": "Godot_tutorial_8",
+   "t": 242.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 130,
+   "keywords": 0
+  },
+  {
+   "id": "t2_291s",
+   "stem": "Godot_tutorial_2",
+   "t": 291.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 190,
+   "keywords": 0
+  },
+  {
+   "id": "t5_243s",
+   "stem": "Godot_tutorial_5",
+   "t": 243.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 202,
+   "keywords": 0
+  },
+  {
+   "id": "t4_52s",
+   "stem": "Godot_tutorial_4",
+   "t": 52.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 210,
+   "keywords": 0
+  },
+  {
+   "id": "t2_179s",
+   "stem": "Godot_tutorial_2",
+   "t": 179.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 218,
+   "keywords": 0
+  },
+  {
+   "id": "t10_212s",
+   "stem": "Godot_tutorial_10",
+   "t": 212.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 231,
+   "keywords": 0
+  },
+  {
+   "id": "t20_9s",
+   "stem": "Godot_tutorial_20",
+   "t": 9.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t12_16s",
+   "stem": "Godot_tutorial_12",
+   "t": 16.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 15,
+   "keywords": 0
+  },
+  {
+   "id": "t3_261s",
+   "stem": "Godot_tutorial_3",
+   "t": 261.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 244,
+   "keywords": 0
+  },
+  {
+   "id": "t20_223s",
+   "stem": "Godot_tutorial_20",
+   "t": 223.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 160,
+   "keywords": 0
+  },
+  {
+   "id": "t12_221s",
+   "stem": "Godot_tutorial_12",
+   "t": 221.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 153,
+   "keywords": 0
+  },
+  {
+   "id": "t10_213s",
+   "stem": "Godot_tutorial_10",
+   "t": 213.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 234,
+   "keywords": 0
+  },
+  {
+   "id": "t6_214s",
+   "stem": "Godot_tutorial_6",
+   "t": 214.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 255,
+   "keywords": 0
+  },
+  {
+   "id": "t15_54s",
+   "stem": "Godot_tutorial_15",
+   "t": 54.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 112,
+   "keywords": 0
+  },
+  {
+   "id": "t12_252s",
+   "stem": "Godot_tutorial_12",
+   "t": 252.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 172,
+   "keywords": 0
+  },
+  {
+   "id": "t14_2s",
+   "stem": "Godot_tutorial_14",
+   "t": 2.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 6,
+   "keywords": 0
+  },
+  {
+   "id": "t7_120s",
+   "stem": "Godot_tutorial_7",
+   "t": 120.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 236,
+   "keywords": 0
+  },
+  {
+   "id": "t19_19s",
+   "stem": "Godot_tutorial_19",
+   "t": 19.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 3,
+   "keywords": 0
+  },
+  {
+   "id": "t11_149s",
+   "stem": "Godot_tutorial_11",
+   "t": 149.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 157,
+   "keywords": 0
+  },
+  {
+   "id": "t20_45s",
+   "stem": "Godot_tutorial_20",
+   "t": 45.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 13,
+   "keywords": 0
+  },
+  {
+   "id": "t8_152s",
+   "stem": "Godot_tutorial_8",
+   "t": 152.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 107,
+   "keywords": 9
+  },
+  {
+   "id": "t4_169s",
+   "stem": "Godot_tutorial_4",
+   "t": 169.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 252,
+   "keywords": 0
+  },
+  {
+   "id": "t14_9s",
+   "stem": "Godot_tutorial_14",
+   "t": 9.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 7,
+   "keywords": 0
+  },
+  {
+   "id": "t4_136s",
+   "stem": "Godot_tutorial_4",
+   "t": 136.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 233,
+   "keywords": 0
+  },
+  {
+   "id": "t17_273s",
+   "stem": "Godot_tutorial_17",
+   "t": 273.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 144,
+   "keywords": 0
+  },
+  {
+   "id": "t14_251s",
+   "stem": "Godot_tutorial_14",
+   "t": 251.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t18_39s",
+   "stem": "Godot_tutorial_18",
+   "t": 39.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 15,
+   "keywords": 0
+  },
+  {
+   "id": "t3_283s",
+   "stem": "Godot_tutorial_3",
+   "t": 283.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 214,
+   "keywords": 0
+  },
+  {
+   "id": "t16_99s",
+   "stem": "Godot_tutorial_16",
+   "t": 99.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 204,
+   "keywords": 0
+  },
+  {
+   "id": "t13_21s",
+   "stem": "Godot_tutorial_13",
+   "t": 21.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 2,
+   "keywords": 0
+  },
+  {
+   "id": "t10_114s",
+   "stem": "Godot_tutorial_10",
+   "t": 114.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 281,
+   "keywords": 0
+  },
+  {
+   "id": "t8_131s",
+   "stem": "Godot_tutorial_8",
+   "t": 131.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 110,
+   "keywords": 0
+  },
+  {
+   "id": "t14_297s",
+   "stem": "Godot_tutorial_14",
+   "t": 297.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 174,
+   "keywords": 0
+  },
+  {
+   "id": "t8_7s",
+   "stem": "Godot_tutorial_8",
+   "t": 7.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 107,
+   "keywords": 2
+  },
+  {
+   "id": "t11_177s",
+   "stem": "Godot_tutorial_11",
+   "t": 177.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 253,
+   "keywords": 0
+  },
+  {
+   "id": "t13_24s",
+   "stem": "Godot_tutorial_13",
+   "t": 24.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 3,
+   "keywords": 0
+  },
+  {
+   "id": "t12_292s",
+   "stem": "Godot_tutorial_12",
+   "t": 292.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 131,
+   "keywords": 0
+  },
+  {
+   "id": "t16_57s",
+   "stem": "Godot_tutorial_16",
+   "t": 57.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 4,
+   "keywords": 0
+  },
+  {
+   "id": "t8_243s",
+   "stem": "Godot_tutorial_8",
+   "t": 243.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 129,
+   "keywords": 0
+  },
+  {
+   "id": "t4_63s",
+   "stem": "Godot_tutorial_4",
+   "t": 63.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 213,
+   "keywords": 0
+  },
+  {
+   "id": "t13_234s",
+   "stem": "Godot_tutorial_13",
+   "t": 234.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 146,
+   "keywords": 0
+  },
+  {
+   "id": "t18_186s",
+   "stem": "Godot_tutorial_18",
+   "t": 186.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 53,
+   "keywords": 0
+  },
+  {
+   "id": "t18_24s",
+   "stem": "Godot_tutorial_18",
+   "t": 24.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 9,
+   "keywords": 0
+  },
+  {
+   "id": "t19_8s",
+   "stem": "Godot_tutorial_19",
+   "t": 8.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t1_252s",
+   "stem": "Godot_tutorial_1",
+   "t": 252.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 288,
+   "keywords": 0
+  },
+  {
+   "id": "t18_161s",
+   "stem": "Godot_tutorial_18",
+   "t": 161.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 67,
+   "keywords": 0
+  },
+  {
+   "id": "t6_282s",
+   "stem": "Godot_tutorial_6",
+   "t": 282.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 221,
+   "keywords": 0
+  },
+  {
+   "id": "t6_124s",
+   "stem": "Godot_tutorial_6",
+   "t": 124.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 183,
+   "keywords": 0
+  },
+  {
+   "id": "t14_260s",
+   "stem": "Godot_tutorial_14",
+   "t": 260.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 199,
+   "keywords": 0
+  },
+  {
+   "id": "t15_63s",
+   "stem": "Godot_tutorial_15",
+   "t": 63.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 134,
+   "keywords": 0
+  },
+  {
+   "id": "t18_58s",
+   "stem": "Godot_tutorial_18",
+   "t": 58.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 11,
+   "keywords": 0
+  },
+  {
+   "id": "t16_271s",
+   "stem": "Godot_tutorial_16",
+   "t": 271.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 193,
+   "keywords": 0
+  },
+  {
+   "id": "t11_97s",
+   "stem": "Godot_tutorial_11",
+   "t": 97.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 188,
+   "keywords": 0
+  },
+  {
+   "id": "t20_200s",
+   "stem": "Godot_tutorial_20",
+   "t": 200.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 202,
+   "keywords": 0
+  },
+  {
+   "id": "t8_12s",
+   "stem": "Godot_tutorial_8",
+   "t": 12.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 62,
+   "keywords": 0
+  },
+  {
+   "id": "t5_9s",
+   "stem": "Godot_tutorial_5",
+   "t": 9.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 282,
+   "keywords": 0
+  },
+  {
+   "id": "t7_9s",
+   "stem": "Godot_tutorial_7",
+   "t": 9.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t8_20s",
+   "stem": "Godot_tutorial_8",
+   "t": 20.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 51,
+   "keywords": 0
+  },
+  {
+   "id": "t8_19s",
+   "stem": "Godot_tutorial_8",
+   "t": 19.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 51,
+   "keywords": 0
+  },
+  {
+   "id": "t1_27s",
+   "stem": "Godot_tutorial_1",
+   "t": 27.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 232,
+   "keywords": 0
+  },
+  {
+   "id": "t15_267s",
+   "stem": "Godot_tutorial_15",
+   "t": 267.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 163,
+   "keywords": 0
+  },
+  {
+   "id": "t7_173s",
+   "stem": "Godot_tutorial_7",
+   "t": 173.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 183,
+   "keywords": 0
+  },
+  {
+   "id": "t20_162s",
+   "stem": "Godot_tutorial_20",
+   "t": 162.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 209,
+   "keywords": 0
+  },
+  {
+   "id": "t19_54s",
+   "stem": "Godot_tutorial_19",
+   "t": 54.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 207,
+   "keywords": 0
+  },
+  {
+   "id": "t14_234s",
+   "stem": "Godot_tutorial_14",
+   "t": 234.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 205,
+   "keywords": 0
+  },
+  {
+   "id": "t6_125s",
+   "stem": "Godot_tutorial_6",
+   "t": 125.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 183,
+   "keywords": 0
+  },
+  {
+   "id": "t17_171s",
+   "stem": "Godot_tutorial_17",
+   "t": 171.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 114,
+   "keywords": 9
+  },
+  {
+   "id": "t2_20s",
+   "stem": "Godot_tutorial_2",
+   "t": 20.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t10_228s",
+   "stem": "Godot_tutorial_10",
+   "t": 228.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 253,
+   "keywords": 0
+  },
+  {
+   "id": "t3_173s",
+   "stem": "Godot_tutorial_3",
+   "t": 173.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 215,
+   "keywords": 0
+  },
+  {
+   "id": "t18_59s",
+   "stem": "Godot_tutorial_18",
+   "t": 59.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 10,
+   "keywords": 0
+  },
+  {
+   "id": "t18_200s",
+   "stem": "Godot_tutorial_18",
+   "t": 200.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 123,
+   "keywords": 0
+  },
+  {
+   "id": "t7_268s",
+   "stem": "Godot_tutorial_7",
+   "t": 268.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 219,
+   "keywords": 0
+  },
+  {
+   "id": "t20_20s",
+   "stem": "Godot_tutorial_20",
+   "t": 20.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 10,
+   "keywords": 0
+  },
+  {
+   "id": "t8_10s",
+   "stem": "Godot_tutorial_8",
+   "t": 10.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 106,
+   "keywords": 2
+  },
+  {
+   "id": "t18_18s",
+   "stem": "Godot_tutorial_18",
+   "t": 18.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 12,
+   "keywords": 0
+  },
+  {
+   "id": "t18_3s",
+   "stem": "Godot_tutorial_18",
+   "t": 3.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 8,
+   "keywords": 0
+  },
+  {
+   "id": "t4_226s",
+   "stem": "Godot_tutorial_4",
+   "t": 226.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 232,
+   "keywords": 0
+  },
+  {
+   "id": "t13_164s",
+   "stem": "Godot_tutorial_13",
+   "t": 164.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 178,
+   "keywords": 0
+  },
+  {
+   "id": "t18_173s",
+   "stem": "Godot_tutorial_18",
+   "t": 173.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 74,
+   "keywords": 0
+  },
+  {
+   "id": "t7_232s",
+   "stem": "Godot_tutorial_7",
+   "t": 232.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 163,
+   "keywords": 0
+  },
+  {
+   "id": "t13_258s",
+   "stem": "Godot_tutorial_13",
+   "t": 258.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 158,
+   "keywords": 0
+  },
+  {
+   "id": "t12_97s",
+   "stem": "Godot_tutorial_12",
+   "t": 97.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t18_78s",
+   "stem": "Godot_tutorial_18",
+   "t": 78.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 17,
+   "keywords": 0
+  },
+  {
+   "id": "t19_177s",
+   "stem": "Godot_tutorial_19",
+   "t": 177.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 197,
+   "keywords": 0
+  },
+  {
+   "id": "t13_167s",
+   "stem": "Godot_tutorial_13",
+   "t": 167.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t2_2s",
+   "stem": "Godot_tutorial_2",
+   "t": 2.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 168,
+   "keywords": 0
+  },
+  {
+   "id": "t13_43s",
+   "stem": "Godot_tutorial_13",
+   "t": 43.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 146,
+   "keywords": 0
+  },
+  {
+   "id": "t5_106s",
+   "stem": "Godot_tutorial_5",
+   "t": 106.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 179,
+   "keywords": 0
+  },
+  {
+   "id": "t12_127s",
+   "stem": "Godot_tutorial_12",
+   "t": 127.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 174,
+   "keywords": 0
+  },
+  {
+   "id": "t16_32s",
+   "stem": "Godot_tutorial_16",
+   "t": 32.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 22,
+   "keywords": 0
+  },
+  {
+   "id": "t5_274s",
+   "stem": "Godot_tutorial_5",
+   "t": 274.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 205,
+   "keywords": 0
+  },
+  {
+   "id": "t15_186s",
+   "stem": "Godot_tutorial_15",
+   "t": 186.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 161,
+   "keywords": 0
+  },
+  {
+   "id": "t8_235s",
+   "stem": "Godot_tutorial_8",
+   "t": 235.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 151,
+   "keywords": 0
+  },
+  {
+   "id": "t17_125s",
+   "stem": "Godot_tutorial_17",
+   "t": 125.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 171,
+   "keywords": 0
+  },
+  {
+   "id": "t18_14s",
+   "stem": "Godot_tutorial_18",
+   "t": 14.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 10,
+   "keywords": 0
+  },
+  {
+   "id": "t11_168s",
+   "stem": "Godot_tutorial_11",
+   "t": 168.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 255,
+   "keywords": 0
+  },
+  {
+   "id": "t1_169s",
+   "stem": "Godot_tutorial_1",
+   "t": 169.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 228,
+   "keywords": 0
+  },
+  {
+   "id": "t20_91s",
+   "stem": "Godot_tutorial_20",
+   "t": 91.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 194,
+   "keywords": 0
+  },
+  {
+   "id": "t14_116s",
+   "stem": "Godot_tutorial_14",
+   "t": 116.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 186,
+   "keywords": 0
+  },
+  {
+   "id": "t4_13s",
+   "stem": "Godot_tutorial_4",
+   "t": 13.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 203,
+   "keywords": 0
+  },
+  {
+   "id": "t19_13s",
+   "stem": "Godot_tutorial_19",
+   "t": 13.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 4,
+   "keywords": 0
+  },
+  {
+   "id": "t16_104s",
+   "stem": "Godot_tutorial_16",
+   "t": 104.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t17_28s",
+   "stem": "Godot_tutorial_17",
+   "t": 28.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 185,
+   "keywords": 0
+  },
+  {
+   "id": "t3_195s",
+   "stem": "Godot_tutorial_3",
+   "t": 195.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 269,
+   "keywords": 0
+  },
+  {
+   "id": "t15_291s",
+   "stem": "Godot_tutorial_15",
+   "t": 291.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 163,
+   "keywords": 0
+  },
+  {
+   "id": "t13_27s",
+   "stem": "Godot_tutorial_13",
+   "t": 27.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 2,
+   "keywords": 0
+  },
+  {
+   "id": "t10_84s",
+   "stem": "Godot_tutorial_10",
+   "t": 84.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 178,
+   "keywords": 0
+  },
+  {
+   "id": "t18_259s",
+   "stem": "Godot_tutorial_18",
+   "t": 259.0,
+   "label": "reject_ocr",
+   "valid": false,
+   "n": 69,
+   "keywords": 0
+  },
+  {
+   "id": "t7_17s",
+   "stem": "Godot_tutorial_7",
+   "t": 17.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 2,
+   "keywords": 0
+  },
+  {
+   "id": "t5_91s",
+   "stem": "Godot_tutorial_5",
+   "t": 91.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 181,
+   "keywords": 0
+  },
+  {
+   "id": "t18_81s",
+   "stem": "Godot_tutorial_18",
+   "t": 81.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 16,
+   "keywords": 0
+  },
+  {
+   "id": "t2_122s",
+   "stem": "Godot_tutorial_2",
+   "t": 122.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 244,
+   "keywords": 0
+  },
+  {
+   "id": "t16_4s",
+   "stem": "Godot_tutorial_16",
+   "t": 4.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 0,
+   "keywords": 0
+  },
+  {
+   "id": "t2_25s",
+   "stem": "Godot_tutorial_2",
+   "t": 25.0,
+   "label": "reject_count",
+   "valid": false,
+   "n": 1,
+   "keywords": 0
+  },
+  {
+   "id": "t18_294s",
+   "stem": "Godot_tutorial_18",
+   "t": 294.0,
+   "label": "valid_count",
+   "valid": true,
+   "n": 144,
+   "keywords": 0
+  },
+  {
+   "id": "t8_135s",
+   "stem": "Godot_tutorial_8",
+   "t": 135.0,
+   "label": "valid_ocr",
+   "valid": true,
+   "n": 79,
+   "keywords": 9
+  }
+ ]
+}

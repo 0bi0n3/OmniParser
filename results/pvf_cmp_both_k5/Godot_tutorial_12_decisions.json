@@ -1,0 +1,731 @@
+{
+ "video": "/mnt/hitchcock/scratch/oberon/OmniParser/results/pre_vlm_filtering_30s/clips/Godot_tutorial_12.mp4",
+ "params": {
+  "mode": "both",
+  "borderline_max": 120,
+  "band_scale": 3,
+  "fps": 1.0,
+  "top_frac": 0.1,
+  "min_keywords": 5,
+  "min_elements": 100,
+  "box_threshold": 0.05,
+  "iou_threshold": 0.7,
+  "ocr_text_threshold": 0.9
+ },
+ "keywords": [
+  "Scene",
+  "Project",
+  "Debug",
+  "Editor",
+  "Help",
+  "2D",
+  "3D",
+  "Script",
+  "AssetLib"
+ ],
+ "frame_counts": {
+  "neither": 19,
+  "valid": 12
+ },
+ "runs": [
+  {
+   "label": "neither",
+   "start": 0.0,
+   "end": 18.0,
+   "n_frames": 19
+  },
+  {
+   "label": "valid",
+   "start": 19.0,
+   "end": 30.0,
+   "n_frames": 12
+  }
+ ],
+ "frames": [
+  {
+   "t": 0.0,
+   "keywords_found": [],
+   "top_text": [],
+   "n_interactable": 0,
+   "n_elements": 0,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 1.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "Run Right-D"
+   ],
+   "n_interactable": 14,
+   "n_elements": 20,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 2.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "Run Right-D"
+   ],
+   "n_interactable": 12,
+   "n_elements": 18,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 3.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "Run Right-D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 19,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 4.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "Run Right-D"
+   ],
+   "n_interactable": 12,
+   "n_elements": 18,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 5.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "AirMoveState",
+    "Run Right-D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 20,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 6.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 19,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 7.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 12,
+   "n_elements": 18,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 8.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 12,
+   "n_elements": 18,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 9.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 22,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 10.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 14,
+   "n_elements": 25,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 11.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "AirMoveState",
+    "Run Right - D"
+   ],
+   "n_interactable": 15,
+   "n_elements": 23,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 12.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 22,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 13.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 13,
+   "n_elements": 23,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 14.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 14,
+   "n_elements": 24,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 15.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 17,
+   "n_elements": 25,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 16.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 15,
+   "n_elements": 24,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 17.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left - A",
+    "Run Right - D"
+   ],
+   "n_interactable": 16,
+   "n_elements": 25,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 18.0,
+   "keywords_found": [
+    "Debug"
+   ],
+   "top_text": [
+    "Controlling Animated Sprites with LimboAI (DEBUG)",
+    "Run Left-A",
+    "Run Right-D"
+   ],
+   "n_interactable": 10,
+   "n_elements": 15,
+   "ocr_pass": false,
+   "count_pass": false,
+   "label": "neither",
+   "valid": false
+  },
+  {
+   "t": 19.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "Scene Project Debug Editor Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Mobile",
+    "Scene",
+    "Import",
+    " captain_clown_nose"
+   ],
+   "n_interactable": 165,
+   "n_elements": 195,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 20.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "Scene Project Debug",
+    "Editor Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    " captain_clown_nose",
+    "O lev"
+   ],
+   "n_interactable": 164,
+   "n_elements": 196,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 21.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProject Debug",
+    "Editor Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Mobile",
+    "Scene",
+    "Import",
+    " captain_clown_nose",
+    "O lev"
+   ],
+   "n_interactable": 163,
+   "n_elements": 196,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 22.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "Scene Project Debug",
+    "Editor Help",
+    "F2D 3DScript Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    " captain_clown_nose",
+    "O lev"
+   ],
+   "n_interactable": 162,
+   "n_elements": 195,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 23.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "Scene Project Debug Editor Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Mobile",
+    "Scene",
+    "Import",
+    " captain_clown_nose"
+   ],
+   "n_interactable": 164,
+   "n_elements": 195,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 24.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProjectDebug",
+    "Editor",
+    "Help",
+    "F2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose"
+   ],
+   "n_interactable": 164,
+   "n_elements": 202,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 25.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProjectDebug",
+    "Editor",
+    "Help",
+    "F2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose"
+   ],
+   "n_interactable": 164,
+   "n_elements": 202,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 26.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "captain",
+    "ose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProjectDebug",
+    "Editor",
+    "Help",
+    "2D 3D script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose",
+    "ispecto",
+    "View"
+   ],
+   "n_interactable": 202,
+   "n_elements": 253,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 27.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "captain_clown_nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProjectDebug",
+    "Editor",
+    "Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose",
+    "ispecto",
+    "iew"
+   ],
+   "n_interactable": 210,
+   "n_elements": 245,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 28.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "captain_clown_nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "Scene Project Debug",
+    "Editor",
+    "Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose",
+    "ispecto",
+    "View"
+   ],
+   "n_interactable": 206,
+   "n_elements": 242,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 29.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "captain_clown_nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "SceneProject Debug",
+    "Editor",
+    "Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    " captain_clown_nose"
+   ],
+   "n_interactable": 182,
+   "n_elements": 213,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  },
+  {
+   "t": 30.0,
+   "keywords_found": [
+    "Scene",
+    "Project",
+    "Debug",
+    "Editor",
+    "Help",
+    "2D",
+    "3D",
+    "Script",
+    "AssetLib"
+   ],
+   "top_text": [
+    "captain_clown_nose.tscn - Controlling Animated Sprites with LimboAI - Godot Engine",
+    "ceneProjectDebug",
+    "Editor",
+    "Help",
+    "2D 3D Script Game AssetLib XLimboAI",
+    "Scene",
+    "Import",
+    "captain_clown_nose"
+   ],
+   "n_interactable": 185,
+   "n_elements": 212,
+   "ocr_pass": true,
+   "count_pass": true,
+   "label": "valid",
+   "valid": true
+  }
+ ]
+}
